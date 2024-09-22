@@ -1,0 +1,20 @@
+{
+  "root": ".",
+  "title": "Yusheng Zhang Archive",
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-plus",
+    "anchor-navigation-ex",
+    "katex-mhchem"
+  ],
+  "pdf": {
+    "fontFamily": "AR PL UKai CN"
+  },
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false
+    }
+  }
+}

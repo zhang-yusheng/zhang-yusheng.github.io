@@ -1,0 +1,29 @@
+name: "honkit-publish"
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    env:
+      USER_NAME: zhang-yusheng
+      USER_EMAIL: zhang-yusheng@qq.com
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run package installation script
+        run: |
+          chmod +x ./scripts/install_packages.sh
+          ./scripts/install_packages.sh
+      - run: honkit build ./
+      - name: build books
+        run: |
+          chmod +x ./scripts/build_books.sh
+          ./scripts/build_books.sh
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _book # The folder the action should deploy.
