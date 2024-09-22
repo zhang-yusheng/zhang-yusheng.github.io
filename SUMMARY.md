@@ -2,6 +2,7 @@
 
 -   [Introduction](README.md)
 -   [专辑](./albums/albums.md)
+    -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
     -   [口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
     -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
     -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
