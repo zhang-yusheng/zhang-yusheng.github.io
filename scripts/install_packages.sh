@@ -11,6 +11,7 @@ declare -A packages=(
     ["gitbook-plugin-custom-favicon"]=""
     ["gitbook-plugin-page-footer-ex"]=""
     ["@honkit/honkit-plugin-ga"]=""
+    ["gitbook-plugin-edit-link"]=""
 )
 
 # 获取当前全局安装的包列表

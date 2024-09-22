@@ -120,10 +120,11 @@ zhang-yusheng.github.io
 
 # 发布新资料
 
-目前有两种方法投递资料到网站上：
+目前投递资料到网站有如下几种方法：
 
 1. 通过邮件将整理好的资料发送给 `zhang-yusheng@qq.com`，注明要发布到的类别，是专辑，还是演出……
-2. 使用 GitHub 自带的 merge request
+2. 在对应页面点击页首的「在 GitHub 上编辑此页面」链接，直接跳转到 GitHub 页面编辑后提交
+3. fork 一份后使用 GitHub 自带的 merge request
 
 站长有空时就会手动将新资料合入网站
 
