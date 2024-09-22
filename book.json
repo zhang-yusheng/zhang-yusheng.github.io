@@ -14,8 +14,7 @@
     "custom-favicon",
     "page-footer-ex",
     "@honkit/honkit-plugin-ga",
-    "edit-link",
-    "gtalk"
+    "edit-link"
   ],
   "pdf": {
     "fontFamily": "AR PL UKai CN"
@@ -54,16 +53,6 @@
     "edit-link": {
       "base": "https://github.com/zhang-yusheng/zhang-yusheng.github.io/edit/main/",
       "label": "在 GitHub 上编辑此页面"
-    },
-    "gtalk": {
-      "clientID": "Ov23liU3POQTwKs7YI2m",
-      "clientSecret": "b84db84e2e038f1c1999ce0ef4aefff4519a197a",
-      "repo": "zhang-yusheng.github.io",
-      "owner": "zhang-yusheng",
-      "admin": [
-        "zhang-yusheng"
-      ],
-      "distractionFreeMode": false
     }
   }
 }
