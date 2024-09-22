@@ -3,18 +3,51 @@
   "title": "Yusheng Zhang Archive",
   "language": "zh-hans",
   "plugins": [
+    "-sharing",
+    "sharing-plus",
     "-lunr",
     "-search",
     "search-plus",
     "anchor-navigation-ex",
-    "katex-mhchem"
+    "katex-mhchem",
+    "expandable-chapters-small",
+    "custom-favicon",
+    "page-footer-ex",
+    "@honkit/honkit-plugin-ga"
   ],
   "pdf": {
     "fontFamily": "AR PL UKai CN"
   },
   "pluginsConfig": {
+    "favicon": "./img/fav.ico",
     "anchor-navigation-ex": {
       "showLevel": false
+    },
+    "sharing": {
+      "douban": true,
+      "facebook": true,
+      "qq": true,
+      "qzone": true,
+      "twitter": true,
+      "weibo": true,
+      "all": [
+        "douban",
+        "facebook",
+        "qq",
+        "qzone",
+        "twitter",
+        "weibo"
+      ]
+    },
+    "page-footer-ex": {
+      "copyright": "zhang-yusheng@github",
+      "markdown": false,
+      "update_label": "<i>updated</i>",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "ga": {
+      "trackingID": "G-DCCB2GFRYG",
+      "anonymizeIP": true
     }
   }
 }

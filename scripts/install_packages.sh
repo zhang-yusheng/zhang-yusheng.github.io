@@ -6,6 +6,11 @@ declare -A packages=(
     ["gitbook-plugin-search-plus"]=""
     ["gitbook-plugin-anchor-navigation-ex"]=""
     ["gitbook-plugin-katex-mhchem"]=""
+    ["gitbook-plugin-sharing-plus"]=""
+    ["gitbook-plugin-expandable-chapters-small"]=""
+    ["gitbook-plugin-custom-favicon"]=""
+    ["gitbook-plugin-page-footer-ex"]=""
+    ["@honkit/honkit-plugin-ga"]=""
 )
 
 # 获取当前全局安装的包列表
