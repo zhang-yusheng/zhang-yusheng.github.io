@@ -1073,5 +1073,5 @@ TO SAY I DO 对我来讲还太早
 请记住我要给你一个忠告  
 想要开心自己找
 
-[^1]: 《[酿酒的石头](link)》是洛夫的一首诗
+[^1]: 《[酿酒的石头](https://mp.weixin.qq.com/s/Jm_N33f0yyHGkC6vU7gnbw)》是洛夫的一首诗
 [^2]: 即 Orion，猎户座
