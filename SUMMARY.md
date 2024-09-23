@@ -8,6 +8,7 @@
     -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
     -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
     -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
+    -   [自由歌](./albums/1994-01-23-zyg/1994-01-23-zyg.md)
 -   [文章](./articles/articles.md)
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
 -   [综艺](./shows/shows.md)
