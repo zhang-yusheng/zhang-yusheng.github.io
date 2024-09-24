@@ -3,6 +3,7 @@
 -   [Introduction](README.md)
 -   [专辑](./albums/albums.md)
     -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
+    -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
     -   [口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
     -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
     -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
