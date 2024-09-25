@@ -1,13 +1,30 @@
 {
     "cSpell.words": [
+        "alpkfwh",
         "André",
+        "ayxwzgwywh",
+        "dwdbg",
+        "gdswb",
         "Guillaume",
         "honkit",
+        "hzhj",
         "Iruma",
         "Kahlil",
+        "kloktbw",
         "Koji",
+        "ksxf",
+        "lxhdyyjs",
+        "rgnylkw",
         "Tomoko",
         "yusheng",
         "zhang"
-    ]
+    ],
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        },
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }
