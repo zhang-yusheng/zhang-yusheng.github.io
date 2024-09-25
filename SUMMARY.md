@@ -1,6 +1,6 @@
 # Summary
 
--   [Introduction](README.md)
+-   [首页](README.md)
 -   [专辑](./albums/albums.md)
     -   [乐界](./albums/2022-04-13-yj/2022-04-13-yj.md)
     -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
@@ -20,3 +20,4 @@
 -   [演出](./performances/performances.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
+-   [整理资料教学](./how-to-contribute/how-to-contribute.md)
