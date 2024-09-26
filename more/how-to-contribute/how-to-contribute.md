@@ -1,4 +1,4 @@
-# 资料整理教学
+# 资料整理指导
 
 # markdown
 
@@ -174,6 +174,12 @@ zhang-yusheng.github.io
 
 ![检查拼写错误](./check-spell-errors.png)
 
-# 未来计划
+# Commit Comment 约定
 
--   将 [rfhits/Collected\-Work\-of\-Tom\-Chang: 张雨生文集](https://github.com/rfhits/Collected-Work-of-Tom-Chang) 资料迁移到本网站
+| 类型     | 说明                                       |
+| :------- | :----------------------------------------- |
+| feat     | 为项目**增加**内容，如添加出处、添加脚注等 |
+| fix      | 修订项目中**错误**的部分，如笔误、时间等   |
+| refactor | 重命名项目、移动项目                       |
+| style    | 文件**格式**修改                           |
+| chore    | 网站部署相关的修改                         |
