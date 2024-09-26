@@ -176,6 +176,8 @@ zhang-yusheng.github.io
 
 # Commit Comment 约定
 
+该部分只需 GitHub Collaborators 阅读。
+
 | 类型     | 说明                                       |
 | :------- | :----------------------------------------- |
 | feat     | 为项目**增加**内容，如添加出处、添加脚注等 |
