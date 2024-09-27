@@ -203,9 +203,57 @@ zhang-yusheng.github.io
 试着编辑 `1997-10-16-ksxf.md` 下吧，比如修改标题、插入一些其他的图片、添加自己的脚注等待，  
 所有的改动都可以通过点击右上角的放大镜图标预览。
 
+## 批量编辑
+
+一只手按住 `Alt + Ctrl + Shift`，另一只手敲击向上键，可以向上的方向上制造多个光标。
+
+这个功能在批量添加换行时非常好用。  
+将光标移动到最后一行的行首，一只手按住 `Alt + Ctrl + Shift`，另一只手一直敲向上键，直到光标到第一行，  
+按下 `End` 键后，光标就来到了所有行的行末，此时输入两个空格就相当于在所有行的行末插入了换行。
+
+要重新只有一个光标，用鼠标点一下 markdown 文件的任意位置就行。
+
+## 插入 B 站视频
+
+markdown 中插入 B 站视频需要使用 HTML 语法。
+首先我们需要获取视频的分享链接，这里用[《我期待》MV 为例](https://www.bilibili.com/video/BV1VV41117KV/)：
+
+![获取视频分享链接](./get-video-share-link.png)
+
+点击「嵌入代码」后，剪贴板中就会有如下代码
+
+```HTML
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+```
+
+我们只需要 `src=""` 里面的内容，所以上面这段代码，真正有用的部分是：
+
+```
+//player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1
+```
+
+这里提供嵌入 B 站视频链接的一个模板：
+
+```html
+<iframe src="https:「替换到这里」&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+```
+
+把真正有用的部分替换到模板里面：
+
+```html
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+```
+
+最后把上面的代码放到 markdown 文件中，就可以渲染出分享出的视频了。
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+目前 vscode 还不支持 B 站分享视频的渲染，但是另一个编辑器 [Typora](https://markdown.com.cn/editor/) 和 [在线 markdown 编辑器](https://markdown.com.cn/editor/) 支持。  
+总之，推送到 GitHub 后，这些视频是可以渲染出来的。
+
 # Commit Comment 约定
 
-该部分只需 GitHub Collaborators 阅读。
+该部分只需 GitHub Users 阅读并遵守。
 
 | 类型     | 说明                                       |
 | :------- | :----------------------------------------- |
