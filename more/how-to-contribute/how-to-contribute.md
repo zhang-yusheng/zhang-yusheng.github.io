@@ -2,11 +2,17 @@
 
 # markdown
 
-目前，所有页面均采用 Markdown 格式编写。Markdown 的语法简洁明了，只需花费不到半小时即可轻松掌握。
+目前，所有资料均采用 Markdown 格式编写。
 
-在继续阅读之前，请确保您已熟悉 Markdown 的基本语法。如果需参考，可查阅 [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)。
+或许有朋友会问，「Markdown」是什么，我不会 Markdown 还能一起整理资料吗？
+
+不必担心，Markdown 是一种标记语言，它的语法简洁明了，不到半小时即可轻松掌握。
+
+[Markdown 官方教程](https://markdown.com.cn/basic-syntax/) 将帮助你掌握这门语言，其中 HTML 相关内容**了解即可**。
 
 # 项目介绍
+
+再次强调，请浏览一遍 [Markdown 官方教程](https://markdown.com.cn/basic-syntax/) 再继续阅读
 
 为了能够更加轻松地理解整个项目的结构，请下载一份网站内容的 [压缩包](https://timaab.lanzouj.com/i3Zce2almbmj) 并解压，结合解压后的文件结构理解项目。
 
@@ -106,7 +112,7 @@ zhang-yusheng.github.io
 
 ### 图片
 
-目前（2024-09-22）只在专辑部分使用图片，统一使用中文拼音首字母缩写拼接命名。
+目前（2024-09-22）只在专辑部分使用图片，统一使用汉语拼音首字母拼接命名。
 
 如《如果你要离开我》的专辑图片，命名为 `rgnylkw.jpg`，而不是 `if-you-want-to-leave-me.jpg`
 
@@ -120,7 +126,7 @@ zhang-yusheng.github.io
 
 # 发布新资料
 
-目前投递资料到网站有如下几种方法：
+目前投递资料到网站有如下两种方法：
 
 1. 通过邮件将整理好的资料发送给 `zhang-yusheng@qq.com`，注明要发布到的类别，是专辑，还是演出……
 2. 注册一个 GitHub 账号，fork 本[仓库](https://github.com/zhang-yusheng/zhang-yusheng.github.io)后，在自己的仓库下进行编辑，然后通过 pull request 进行更新。
@@ -133,7 +139,7 @@ zhang-yusheng.github.io
 
 这里我们选择使用 Visual Studio Code（简称 vscode）作为 markdown 文件的编辑器。
 
-从 [Visual Studio Code](https://code.visualstudio.com/) 下载并安装 vscode，安装过程中所有配置保持默认。
+从 [Visual Studio Code 官方网站](https://code.visualstudio.com/) 下载并安装 vscode，安装过程中所有配置保持默认。
 
 打开 vscode，在侧边栏的插件市场中搜索并安装如下插件：
 
@@ -150,29 +156,52 @@ zhang-yusheng.github.io
 -   code spell checker
     ![安装 code spell checker](./install-code-spell-checker.png)
 
-## VSCode 使用
+# vscode 使用
 
-### 编辑文件或文件夹
+配置好 vscode 编辑器后，就可以开始编写资料了。  
+这里用我已经整理好的《口是心非》专辑作为例子，从 [《口是心非》资料整理](https://timaab.lanzouj.com/iGmJo2ayuada) 下载压缩包并解压，然后打开 vscode。
+
+## 编辑文件和打开文件夹
 
 点击左上角「文件」后，可以选择「新建文本文件」或「打开文件夹」。
 
 ![开始编辑](./begin-to-edit.png)
 
-### 格式化文件
+我们打开解压后的文件夹，名称为 `1997-10-16-ksxf`，侧边栏的「资源管理器」中可以看到文件夹下的文件，点击对应的文件可以浏览。
 
-`Alt + Shift + F` 格式化 markdown 文件，使用 prettier 作为格式化插件
+![浏览文件](./view-files.png)
 
-### 预览文件
+## 格式化文件
+
+打开 `1997-10-16-ksxf.md` 文件，我们按下 `Alt + Shift + F`  
+如果提示需要指定格式化插件（formatter），选择 prettier，千万不要选择 Markdown All in One。
+
+`Alt + Shift + F` 将格式化正在编辑的 markdown 文件，比如连续多个空行将被替换为一个空行，列表的缩进将统一……
+
+## 预览文件
 
 点击右上角放大镜对文件进行预览
 
 ![预览 markdown 文件](./preview-markdown.png)
 
-### 检查拼写错误单词
+下面是预览效果：
 
-点击下方状态栏中 圆圈里有个 i 的图标检查拼写错误
+![预览效果](./preview-result.png)
+
+就像谷歌浏览器里的每个标签页那样，在 vscode 中，所有打开的页签都是可以拖动的。
+![拖动页签](./move-tabs.png)
+
+## 检查拼写错误单词
+
+点击下方状态栏中 圆圈里有个 i 的图标，可以检查拼写错误
 
 ![检查拼写错误](./check-spell-errors.png)
+
+## 编辑 `1997-10-16-ksxf.md`
+
+现在你应该已经掌握了 Markdown 语法和 vscode 编辑器的使用，  
+试着编辑 `1997-10-16-ksxf.md` 下吧，比如修改标题、插入一些其他的图片、添加自己的脚注等待，  
+所有的改动都可以通过点击右上角的放大镜图标预览。
 
 # Commit Comment 约定
 
