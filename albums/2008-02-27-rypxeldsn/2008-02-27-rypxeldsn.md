@@ -915,7 +915,7 @@ Even now 我还是不经心地穿过街角
 
 Rhythm is my name 灵魂孤独一行  
 Funky on my bed 摇滚我的自信  
-Hip hop on the game 敲吻蓝色深情  
+Hip hop on the game 敲吻蓝色神经  
 黎明准备好一个清醒的自己
 
 爱我正是时候 拥抱不由自主的悸动
