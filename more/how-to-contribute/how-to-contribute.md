@@ -1,18 +1,155 @@
 # 资料整理指导
 
-# markdown
+本项目所有资料采用 markdown 格式编写，推荐使用 Visual Studio Code（简称 vscode） 作为 markdown 编辑器。
 
-目前，所有资料均采用 Markdown 格式编写。
+或许有朋友会问，「markdown」是什么，我不会 markdown 还能一起整理资料吗？
 
-或许有朋友会问，「Markdown」是什么，我不会 Markdown 还能一起整理资料吗？
+不必担心，markdown 是一种标记语言，它的语法简洁明了。下面的内容将引导我们在配置并熟悉 vscode 的过程中，掌握基础的 markdown 语法。
 
-不必担心，Markdown 是一种标记语言，它的语法简洁明了，不到半小时即可轻松掌握。
+# vscode 配置
 
-[Markdown 官方教程](https://markdown.com.cn/basic-syntax/) 将帮助你掌握这门语言，其中 HTML 相关内容**了解即可**。
+好的工具能够让资料整理事半功倍，本项目推荐使用 vscode 作为 markdown 文件编辑器。
 
-# 项目介绍
+从 [Visual Studio Code 官方网站](https://code.visualstudio.com/) 下载并安装 vscode，安装过程中所有配置保持默认。
 
-再次强调，请浏览一遍 [Markdown 官方教程](https://markdown.com.cn/basic-syntax/) 再继续阅读
+打开 vscode，在侧边栏的插件市场中搜索并安装如下插件：
+
+-   Chinese (Simplified)
+    ![安装汉化插件](./install-Chinese-extension.png)
+-   prettier
+    ![安装格式化插件](./install-prettier.png)
+-   markdown all in one
+    ![安装 markdown 编辑插件](./install-markdown-all-in-one.png)
+-   autocorrect
+    ![安装 autocorrect](install-autocorrect.png)
+-   markdown preview enhanced
+    ![安装 markdown preview enhanced](./install-markdown-preview-enhanced.png)
+-   code spell checker
+    ![安装 code spell checker](./install-code-spell-checker.png)
+-   Partial Diff  
+    该插件可以用于比较文本，安装过程和上面安装的插件一致。
+-   opencclint  
+    该插件可以用于繁体简体相互转换，安装过程和上面安装的插件一致。
+
+最后，请跟随 《[Visual Studio Code 设置自动保存](https://www.cnblogs.com/ptxiaochen/p/13715668.html)》的指引， 配置自动保存功能。
+
+# markdown 教程
+
+现在，打开 [Markdown 官方教程](https://markdown.com.cn/basic-syntax/)，但请不要着急阅读。
+
+在浏览 `.md` 文件时，有看不懂的地方，在教程上进行查阅即可。
+
+# vscode 使用
+
+配置好 vscode 编辑器后，就可以开始编写资料了。
+
+这里用已经整理好的《口是心非》专辑作为例子，从 [《口是心非》资料整理](https://timaab.lanzouj.com/iWlmB2b4cyyd) 下载压缩包并解压，然后打开 vscode。
+
+## 编辑文件和打开文件夹
+
+点击左上角「文件」后，可以选择「新建文本文件」或「打开文件夹」。
+
+![开始编辑](./begin-to-edit.png)
+
+我们打开解压后的文件夹，名称为 `1997-10-16-ksxf`，侧边栏的「资源管理器」中可以看到文件夹下的文件，点击对应的文件可以浏览。
+
+![浏览文件](./view-files.png)
+
+## 格式化文件
+
+打开 `1997-10-16-ksxf.md` 文件，我们按下 `Alt + Shift + F`  
+如果提示需要指定格式化插件（formatter），选择 prettier，千万不要选择 Markdown All in One。
+
+`Alt + Shift + F` 将格式化正在编辑的 markdown 文件，比如连续多个空行将被替换为一个空行，列表的缩进将统一……
+
+## 预览文件
+
+点击右上角放大镜对文件进行预览
+
+![预览 markdown 文件](./preview-markdown.png)
+
+下面是预览效果：
+
+![预览效果](./preview-result.png)
+
+就像谷歌浏览器里的每个标签页那样，在 vscode 中，所有打开的页签都是可以拖动的。
+![拖动页签](./move-tabs.png)
+
+## 查阅 markdown 语法
+
+在 `1997-10-16-ksxf.md` 文件中，你可能会看到各种奇奇怪怪的语法。比如 `# 口是心非`，这是 markdown 语言标记一级标题的语法，在 [Markdown 标题语法](https://markdown.com.cn/basic-syntax/headings.html) 对其进行了介绍。也可以在 vscode 中输入标题语法的文本，在右侧对渲染结果进行预览。
+
+值得一提的是插入图片的语法，[Markdown 图片语法](https://markdown.com.cn/basic-syntax/images.html) 对其进行了介绍。
+
+目前每份资料都有自己单独的文件夹，所有图片都存放在资料自己的文件夹下面，  
+markdown 中，使用 `.` 表示当前 markdown 文件所在的文件夹，所以 `./cover.jpg` 就表示 `1997-10-16-ksxf.md` 同级文件夹下的 `cover.jpg` 这张图片。
+
+## 插入 B 站视频
+
+markdown 中插入 B 站视频需要使用 HTML 语法。
+首先我们需要获取视频的分享链接，这里用[《我期待》MV 为例](https://www.bilibili.com/video/BV1VV41117KV/)：
+
+![获取视频分享链接](./get-video-share-link.png)
+
+点击「嵌入代码」后，剪贴板中就会有如下代码
+
+```HTML
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+```
+
+我们只需要 `src=""` 里面的内容，所以上面这段代码，真正有用的部分是：
+
+```
+//player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1
+```
+
+这里提供嵌入 B 站视频链接的一个模板：
+
+```html
+<iframe src="https:「替换到这里」&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+```
+
+把真正有用的部分替换到模板里面：
+
+```html
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+```
+
+最后把上面的代码放到 markdown 文件中，就可以渲染出分享出的视频了。
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+目前 vscode 还不支持 B 站分享视频的渲染，但是另一个编辑器 [Typora](https://markdown.com.cn/editor/) 和 [在线 markdown 编辑器](https://markdown.com.cn/editor/) 支持。  
+总之，推送到 GitHub 后，这些视频是可以渲染出来的。
+
+## 检查拼写错误单词
+
+点击下方状态栏中 圆圈里有个 i 的图标，可以检查拼写错误
+
+![检查拼写错误](./check-spell-errors.png)
+
+## 编辑 `1997-10-16-ksxf.md`
+
+授人以鱼不如授人以渔，`1997-10-16-ksxf.md` 文件中可能还存在其他的 markdown 语法，如加粗、脚注、换行、无序列表、插入链接等，遇到看不懂的地方，都可以通过 [Markdown 基本语法](https://markdown.com.cn/basic-syntax/) 和 [Markdown 扩展语法](https://markdown.com.cn/extended-syntax/) 进行查阅，还可以问 ChatGPT。
+
+在阅读 markdown 语法教程时，可以在 vscode 中编辑 `1997-10-16-ksxf.md`，比如修改标题、插入一些其他的图片、添加自己的脚注等待，所有的改动都可以通过点击右上角的放大镜图标预览。
+
+## 批量编辑
+
+一只手按住 `Alt + Ctrl + Shift`，另一只手敲击向上键，可以向上的方向上制造多个光标。
+
+这个功能在批量添加换行时非常好用：  
+首先将光标移动到最后一行的行首，一只手按住 `Alt + Ctrl + Shift`，另一只手一直敲向上键，直到光标到第一行，按下 `End` 键后，光标就来到了所有行的行末，此时输入两个空格就相当于在所有行的行末插入了换行。
+
+要重新只有一个光标，用鼠标点一下 markdown 文件的任意位置就行。
+
+## 繁简转换
+
+这个功能是在安装了 opencclint 插件以后才会有的。
+
+选中一段文字后，右键，在弹出的扩展菜单中，点击 `Opencclint: Translate Selection`，就可以将简体转换为繁体；点击`Opencclint: Translate Selection Revert` 可以将繁体转换为简体。
+
+# 项目结构介绍
 
 为了能够更加轻松地理解整个项目的结构，请下载一份网站内容的 [压缩包](https://timaab.lanzouj.com/i3Zce2almbmj) 并解压，结合解压后的文件结构理解项目。
 
@@ -132,124 +269,6 @@ zhang-yusheng.github.io
 2. 注册一个 GitHub 账号，fork 本[仓库](https://github.com/zhang-yusheng/zhang-yusheng.github.io)后，在自己的仓库下进行编辑，然后通过 pull request 进行更新。
 
 站长有空时就会手动将新资料合入网站
-
-# 编辑器配置
-
-## 安装 Visual Studio Code 和插件
-
-这里我们选择使用 Visual Studio Code（简称 vscode）作为 markdown 文件的编辑器。
-
-从 [Visual Studio Code 官方网站](https://code.visualstudio.com/) 下载并安装 vscode，安装过程中所有配置保持默认。
-
-打开 vscode，在侧边栏的插件市场中搜索并安装如下插件：
-
--   Chinese (Simplified)
-    ![安装汉化插件](./install-Chinese-extension.png)
--   prettier
-    ![安装格式化插件](./install-prettier.png)
--   markdown all in one
-    ![安装 markdown 编辑插件](./install-markdown-all-in-one.png)
--   autocorrect
-    ![安装 autocorrect](install-autocorrect.png)
--   markdown preview enhanced
-    ![安装 markdown preview enhanced](./install-markdown-preview-enhanced.png)
--   code spell checker
-    ![安装 code spell checker](./install-code-spell-checker.png)
-
-# vscode 使用
-
-配置好 vscode 编辑器后，就可以开始编写资料了。  
-这里用我已经整理好的《口是心非》专辑作为例子，从 [《口是心非》资料整理](https://timaab.lanzouj.com/iGmJo2ayuada) 下载压缩包并解压，然后打开 vscode。
-
-## 编辑文件和打开文件夹
-
-点击左上角「文件」后，可以选择「新建文本文件」或「打开文件夹」。
-
-![开始编辑](./begin-to-edit.png)
-
-我们打开解压后的文件夹，名称为 `1997-10-16-ksxf`，侧边栏的「资源管理器」中可以看到文件夹下的文件，点击对应的文件可以浏览。
-
-![浏览文件](./view-files.png)
-
-## 格式化文件
-
-打开 `1997-10-16-ksxf.md` 文件，我们按下 `Alt + Shift + F`  
-如果提示需要指定格式化插件（formatter），选择 prettier，千万不要选择 Markdown All in One。
-
-`Alt + Shift + F` 将格式化正在编辑的 markdown 文件，比如连续多个空行将被替换为一个空行，列表的缩进将统一……
-
-## 预览文件
-
-点击右上角放大镜对文件进行预览
-
-![预览 markdown 文件](./preview-markdown.png)
-
-下面是预览效果：
-
-![预览效果](./preview-result.png)
-
-就像谷歌浏览器里的每个标签页那样，在 vscode 中，所有打开的页签都是可以拖动的。
-![拖动页签](./move-tabs.png)
-
-## 检查拼写错误单词
-
-点击下方状态栏中 圆圈里有个 i 的图标，可以检查拼写错误
-
-![检查拼写错误](./check-spell-errors.png)
-
-## 编辑 `1997-10-16-ksxf.md`
-
-现在你应该已经掌握了 Markdown 语法和 vscode 编辑器的使用，  
-试着编辑 `1997-10-16-ksxf.md` 下吧，比如修改标题、插入一些其他的图片、添加自己的脚注等待，  
-所有的改动都可以通过点击右上角的放大镜图标预览。
-
-## 批量编辑
-
-一只手按住 `Alt + Ctrl + Shift`，另一只手敲击向上键，可以向上的方向上制造多个光标。
-
-这个功能在批量添加换行时非常好用。  
-将光标移动到最后一行的行首，一只手按住 `Alt + Ctrl + Shift`，另一只手一直敲向上键，直到光标到第一行，  
-按下 `End` 键后，光标就来到了所有行的行末，此时输入两个空格就相当于在所有行的行末插入了换行。
-
-要重新只有一个光标，用鼠标点一下 markdown 文件的任意位置就行。
-
-## 插入 B 站视频
-
-markdown 中插入 B 站视频需要使用 HTML 语法。
-首先我们需要获取视频的分享链接，这里用[《我期待》MV 为例](https://www.bilibili.com/video/BV1VV41117KV/)：
-
-![获取视频分享链接](./get-video-share-link.png)
-
-点击「嵌入代码」后，剪贴板中就会有如下代码
-
-```HTML
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-```
-
-我们只需要 `src=""` 里面的内容，所以上面这段代码，真正有用的部分是：
-
-```
-//player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1
-```
-
-这里提供嵌入 B 站视频链接的一个模板：
-
-```html
-<iframe src="https:「替换到这里」&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-```
-
-把真正有用的部分替换到模板里面：
-
-```html
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-```
-
-最后把上面的代码放到 markdown 文件中，就可以渲染出分享出的视频了。
-
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=415220022&bvid=BV1VV41117KV&cid=252344992&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-目前 vscode 还不支持 B 站分享视频的渲染，但是另一个编辑器 [Typora](https://markdown.com.cn/editor/) 和 [在线 markdown 编辑器](https://markdown.com.cn/editor/) 支持。  
-总之，推送到 GitHub 后，这些视频是可以渲染出来的。
 
 # Commit Comment 约定
 
