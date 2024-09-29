@@ -14,6 +14,8 @@
     -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
 -   [文章](./articles/articles.md)
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
+-   [访谈](./talks/talks.md)
+    -   [张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   [综艺](./shows/shows.md)
     -   [199x 龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
