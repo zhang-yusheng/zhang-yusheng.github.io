@@ -14,7 +14,8 @@
     "custom-favicon",
     "page-footer-ex",
     "@honkit/honkit-plugin-ga",
-    "edit-link"
+    "edit-link",
+    "disqus"
   ],
   "pdf": {
     "fontFamily": "AR PL UKai CN"
@@ -53,6 +54,9 @@
     "edit-link": {
       "base": "https://github.com/zhang-yusheng/zhang-yusheng.github.io/edit/main/",
       "label": "在 GitHub 上编辑此页面"
+    },
+    "disqus": {
+      "shortName": "zhang-yusheng"
     }
   }
 }
