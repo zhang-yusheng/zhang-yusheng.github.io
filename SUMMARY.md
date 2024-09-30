@@ -9,6 +9,7 @@
     -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
     -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
     -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
+    -   [还是朋友](./albums/1995-03-27-hspy/1995-03-27-hspy.md)
     -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
     -   [自由歌](./albums/1994-01-23-zyg/1994-01-23-zyg.md)
     -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
