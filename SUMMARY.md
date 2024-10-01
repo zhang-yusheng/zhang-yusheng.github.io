@@ -14,6 +14,7 @@
     -   [自由歌](./albums/1994-01-23-zyg/1994-01-23-zyg.md)
     -   [张雨生创作专辑（带我去月球）](./albums/1992-02-24-zysczzj/1992-02-24-zysczzj.md)
     -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
+    -   [天天想你](./albums/1988-11-xx-ttxn/1988-11-xx-ttxn.md)
 -   [文章](./articles/articles.md)
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
 -   [访谈](./talks/talks.md)
