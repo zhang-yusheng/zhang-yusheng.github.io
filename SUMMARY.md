@@ -36,3 +36,4 @@
     -   [友情链接](./more/links.md)
     -   [未来计划](./more/plans.md)
     -   [资料整理指导](./more/how-to-contribute/how-to-contribute.md)
+    -   [本地部署指南](./more/deploy/deploy.md)
