@@ -16,7 +16,7 @@ declare -A packages=(
 )
 
 # 获取当前全局安装的包列表
-globalPackages=$(npm list -g --depth=0 --parseable)
+globalPackages=$(npm list -g --depth=0)
 
 # 检查并安装每个包
 for package in "${!packages[@]}"; do
