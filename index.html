@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
@@ -8,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
+
 <body>
   <div id="app"></div>
   <script>
@@ -16,13 +18,38 @@
       repo: '',
       disqus: 'zhang-yusheng',
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      // 小屏设备下合并导航栏到侧边栏
+      mergeNavbar: true,
+      /*搜索相关设置*/
+      search: {
+        maxAge: 86400000,// 过期时间，单位毫秒，默认一天
+        paths: 'auto',// 注意：仅适用于 paths: 'auto' 模式
+        placeholder: '搜索',
+        noData: '找不到结果',
+        depth: 4,
+        hideOtherSidebarContent: false,
+        namespace: 'zhang-yusheng.github.io',
+      }
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify-footnote/dist/docsify-footnote.min.js"></script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+  <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
+  <!-- CDN files for docsify-katex -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
 
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
+
 </html>
