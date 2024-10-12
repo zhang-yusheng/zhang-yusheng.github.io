@@ -14,8 +14,6 @@ mkdir -p ${bookdir}
 # 设置书籍名称变量
 bookname="yusheng-zhang-archive"
 
-cp ./_sidebar.md ./SUMMARY.md
-
 honkit epub ./ ${bookdir}/${bookname}.epub
 
 honkit pdf ./ ${bookdir}/${bookname}.pdf
