@@ -3,16 +3,9 @@
 # 定义要安装的包和版本
 declare -A packages=(
     ["honkit"]="4.0.0"
-    ["gitbook-plugin-search-plus"]=""
-    ["gitbook-plugin-anchor-navigation-ex"]=""
     ["gitbook-plugin-katex-mhchem"]=""
-    ["gitbook-plugin-sharing-plus"]=""
-    ["gitbook-plugin-expandable-chapters-small"]=""
     ["gitbook-plugin-custom-favicon"]=""
     ["gitbook-plugin-page-footer-ex"]=""
-    ["@honkit/honkit-plugin-ga"]=""
-    ["gitbook-plugin-edit-link"]=""
-    ["gitbook-plugin-disqus"]=""
 )
 
 # 获取当前全局安装的包列表

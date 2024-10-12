@@ -3,19 +3,10 @@
   "title": "Yusheng Zhang Archive",
   "language": "zh-hans",
   "plugins": [
-    "-sharing",
-    "sharing-plus",
     "-lunr",
-    "-search",
-    "search-plus",
-    "anchor-navigation-ex",
     "katex-mhchem",
-    "expandable-chapters-small",
     "custom-favicon",
-    "page-footer-ex",
-    "@honkit/honkit-plugin-ga",
-    "edit-link",
-    "disqus"
+    "page-footer-ex"
   ],
   "pdf": {
     "fontFamily": "AR PL UKai CN"
@@ -25,38 +16,11 @@
     "anchor-navigation-ex": {
       "showLevel": false
     },
-    "sharing": {
-      "douban": true,
-      "facebook": true,
-      "qq": true,
-      "qzone": true,
-      "twitter": true,
-      "weibo": true,
-      "all": [
-        "douban",
-        "facebook",
-        "qq",
-        "qzone",
-        "twitter",
-        "weibo"
-      ]
-    },
     "page-footer-ex": {
       "copyright": "zhang-yusheng@github",
       "markdown": false,
       "update_label": "<i>updated</i>",
       "update_format": "YYYY-MM-DD HH:mm:ss"
-    },
-    "ga": {
-      "trackingID": "G-DCCB2GFRYG",
-      "anonymizeIP": true
-    },
-    "edit-link": {
-      "base": "https://github.com/zhang-yusheng/zhang-yusheng.github.io/edit/main/",
-      "label": "在 GitHub 上编辑此页面"
-    },
-    "disqus": {
-      "shortName": "zhang-yusheng"
     }
   }
 }

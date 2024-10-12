@@ -1,4 +1,4 @@
-name: "Deploy honkit site to Pages"
+name: "use honkit to build books then publish site"
 on:
   push:
     branches:
@@ -38,8 +38,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Build Site
-        run: honkit build ./
       - name: Build Books
         run: |
           chmod +x ./scripts/build_books.sh
@@ -47,7 +45,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_book
+          path: .
   # Deployment job
   deploy:
     environment:
