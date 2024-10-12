@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <style>
+    text { font-family: Arial, sans-serif; font-size: 20px !important; }
+    .line { stroke: #000; stroke-width: 1.5; }
+    .small-text { font-size: 18px !important; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="white"/>
+  
+  <!-- Main title label -->
+  <text x="130" y="50" class="small-text">Main title——</text>
+  
+  <!-- Main title -->
+  <text x="400" y="50" text-anchor="middle" font-size="20">我想把整片天空打开</text>
+  
+  <!-- First level -->
+  <line class="line" x1="400" y1="60" x2="400" y2="90" />
+  <text x="400" y="110" text-anchor="middle">无题</text>
+  
+  <!-- Second level -->
+  <line class="line" x1="400" y1="120" x2="400" y2="140" />
+  <line class="line" x1="200" y1="140" x2="600" y2="140" />
+  <line class="line" x1="200" y1="140" x2="200" y2="170" />
+  <line class="line" x1="600" y1="140" x2="600" y2="170" />
+  <text x="200" y="190" text-anchor="middle">总发游</text>
+  <text x="600" y="190" text-anchor="middle">这一夜我睡不著</text>
+  
+  <!-- Third level left -->
+  <line class="line" x1="200" y1="200" x2="200" y2="220" />
+  <line class="line" x1="100" y1="220" x2="300" y2="220" />
+  <line class="line" x1="100" y1="220" x2="100" y2="250" />
+  <line class="line" x1="300" y1="220" x2="300" y2="250" />
+  <text x="100" y="270" text-anchor="middle">带我去月球</text>
+  <text x="300" y="270" text-anchor="middle">我就要转弯</text>
+  
+  <!-- Third level right -->
+  <line class="line" x1="600" y1="200" x2="600" y2="220" />
+  <line class="line" x1="500" y1="220" x2="700" y2="220" />
+  <line class="line" x1="500" y1="220" x2="500" y2="250" />
+  <line class="line" x1="600" y1="220" x2="600" y2="300" />
+  <line class="line" x1="700" y1="220" x2="700" y2="300" />
+  <text x="500" y="270" text-anchor="middle">湖心草深长</text>
+  <text x="600" y="320" text-anchor="middle">魔幻台北</text>
+  <text x="700" y="320" text-anchor="middle">现在这样</text>
+  
+  <!-- Special connection line -->
+  <path d="M 200 330 L 200 350 H 600 V 330" fill="none" stroke="black" class="line"/>
+  <line class="line" x1="400" y1="350" x2="400" y2="410" />
+  
+  <!-- Final text -->
+  <text x="400" y="430" text-anchor="middle">我呼吸我感觉我存在</text>
+</svg>
