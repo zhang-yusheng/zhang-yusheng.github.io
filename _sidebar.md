@@ -16,6 +16,7 @@
     -   [合作专辑](./albums/albums.md#合作专辑)
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
+        -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
 -   [文章](./articles/articles.md)
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
 -   [信札](./letters/letters.md)

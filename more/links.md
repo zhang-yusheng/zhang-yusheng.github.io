@@ -7,3 +7,4 @@
 -   [我們都愛張雨生 \| Facebook](https://www.facebook.com/groups/170418609638766/)
 -   [张雨生超话—新浪微博超话社区](https://weibo.com/p/1008084a79aad032ab2cf2ee525b5437456087/super_index)
 -   [腾讯频道社区【TOM 雨生緣寶友會】](https://pd.qq.com/s/d3zprw6rd)
+-   [看板 Metal_kids 文章列表 \- 批踢踢實業坊](https://www.ptt.cc/bbs/Metal_kids/index.html)
