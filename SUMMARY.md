@@ -14,7 +14,8 @@
     -   [纪念专辑](./albums/albums.md#纪念专辑)
         -   [乐界](./albums/2022-04-13-yj/2022-04-13-yj.md)
         -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
-    -   [合作专辑](./albums/albums.md#合作专辑)
+        -   [雨生欢禧城](./albums/2003-10-24-yshxc/2003-10-24-yshxc.md)
+    -   合作专辑
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
