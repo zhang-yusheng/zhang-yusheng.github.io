@@ -1,7 +1,7 @@
 -   [首页](README.md)
--   [专辑](./albums/albums.md)
+-   专辑
 
-    -   [个人专辑](./albums/albums.md#个人专辑)
+    -   个人专辑
         -   [口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
         -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
         -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
@@ -12,7 +12,7 @@
         -   [张雨生创作专辑（带我去月球）](./albums/1992-02-24-zysczzj/1992-02-24-zysczzj.md)
         -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
         -   [天天想你](./albums/1988-11-xx-ttxn/1988-11-xx-ttxn.md)
-    -   [纪念专辑](./albums/albums.md#纪念专辑)
+    -   纪念专辑
         -   [乐界](./albums/2022-04-13-yj/2022-04-13-yj.md)
         -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
         -   [雨生欢禧城](./albums/2003-10-24-yshxc/2003-10-24-yshxc.md)
@@ -21,20 +21,20 @@
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
 
--   [文章](./articles/articles.md)
+-   文章
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
--   [信札](./letters/letters.md)
-    -   [情书](./letters/letters.md#情书)
+-   信札
+    -   情书
         -   [生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
--   [访谈](./talks/talks.md)
+-   访谈
     -   [张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
--   [综艺](./shows/shows.md)
+-   综艺
     -   [199x 龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
--   [演出](./performances/performances.md)
+-   演出
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
--   [更多](./more/more.md)
+-   更多
     -   [关于我们](./more/about.md)
     -   [联系我们](./more/contact.md)
     -   [免责声明](./more/disclaimer.md)

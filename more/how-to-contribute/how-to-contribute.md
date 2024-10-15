@@ -1,6 +1,6 @@
 # 资料整理指导
 
-本项目所有资料采用 markdown 格式编写，推荐使用 Visual Studio Code（简称 vscode） 作为 markdown 编辑器。
+本项目所有资料采用 markdown 格式编写，推荐使用 Visual Studio Code（简称 vscode）作为 markdown 编辑器。
 
 或许有朋友会问，「markdown」是什么，我不会 markdown 还能一起整理资料吗？
 
@@ -31,7 +31,7 @@
 -   opencclint  
     该插件可以用于繁体简体相互转换，安装过程和上面安装的插件一致。
 
-最后，请跟随 《[Visual Studio Code 设置自动保存](https://www.cnblogs.com/ptxiaochen/p/13715668.html)》的指引， 配置自动保存功能。
+最后，请跟随《[Visual Studio Code 设置自动保存](https://www.cnblogs.com/ptxiaochen/p/13715668.html)》的指引，配置自动保存功能。
 
 # markdown 教程
 
@@ -162,7 +162,6 @@ zhang-yusheng.github.io
 │  SUMMARY.md
 │
 ├─albums
-│  │  albums.md
 │  │
 │  └─1994-08-xx-kloktbw
 │         1994-08-xx-kloktbw.md
@@ -175,17 +174,14 @@ zhang-yusheng.github.io
 │
 ├─articles
 │      1994-0x-xx-preface-of-tell-you-the-truth.md
-│      articles.md
 |
 ├─performances
 │      1992-xx-xx-alpkfwh.md
 │      1992-xx-xx-ayxwzgwywh.md
-│      performances.md
 │
 └─shows
        1997-xx-xx-lxhdyyjs.md
        199x-xx-xx-lxhdyyjs.md
-       shows.md
 ```
 
 不同文件夹用于存放不同类型的资料，包括：
@@ -197,6 +193,8 @@ zhang-yusheng.github.io
 -   performances: 演出
 
 未来可能还会有新的文件夹存放对应资料
+
+详细参考：[目录结构](STRUCTURE.md)
 
 ## 文件夹和网址的对应关系
 
