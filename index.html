@@ -14,6 +14,7 @@
   <div id="app">
     <script src="https://cdn.jsdelivr.net/gh/Sumsung524/docsify-backTop/dist/docsify-backTop.min.js"></script>
   </div>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
     window.$docsify = {
       name: '紀念雨生',
@@ -35,7 +36,10 @@
         depth: 4,
         hideOtherSidebarContent: false,
         namespace: 'zhang-yusheng.github.io',
-      }
+      },
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/zhang-yusheng/zhang-yusheng.github.io/tree/main/', null, '编辑')
+      ]
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify-footnote/dist/docsify-footnote.min.js"></script>
@@ -48,6 +52,7 @@
 
   <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+
   <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
   <!-- CDN files for docsify-katex -->
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
