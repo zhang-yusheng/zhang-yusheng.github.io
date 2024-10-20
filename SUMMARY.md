@@ -20,6 +20,7 @@
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
+        -   [7 匹狼 电影原声带](./albums/1989-03-xx-qpldyysd/1989-03-xx-qpldyysd.md)
 
 -   文章
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
