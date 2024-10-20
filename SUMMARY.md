@@ -7,7 +7,7 @@
         -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
         -   [还是朋友](./albums/1995-03-27-hspy/1995-03-27-hspy.md)
         -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
-        -   [自由歌](./albums/1994-01-23-zyg/1994-01-23-zyg.md)
+        -   [自由歌](./albums/1994-01-xx-zyg/1994-01-xx-zyg.md)
         -   [大海](./albums/1992-12-xx-dh/1992-12-xx-dh.md)
         -   [张雨生创作专辑（带我去月球）](./albums/1992-02-24-zysczzj/1992-02-24-zysczzj.md)
         -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
@@ -26,6 +26,8 @@
 -   信札
     -   情书
         -   [生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
+    -   致同事
+    -   致歌迷
 -   访谈
     -   [张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
