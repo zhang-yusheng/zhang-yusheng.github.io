@@ -1,5 +1,8 @@
 _book
 
+# Mac files
+.DS_store
+
 # IDE config
 *.code-workspace
 
