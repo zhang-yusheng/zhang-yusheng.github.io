@@ -20,6 +20,7 @@
     -   合作专辑
         -   [7 匹狼 电影原声带](./albums/1989-03-xx-qpldyysd/1989-03-xx-qpldyysd.md)
         -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
+        -   [天空不要为我掉眼泪](./albums/1990-11-23-tkbywwdyl/1990-11-23-tkbywwdyl.md)
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
 
