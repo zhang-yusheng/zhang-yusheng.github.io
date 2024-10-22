@@ -2,26 +2,26 @@
 -   专辑
 
     -   个人专辑
-        -   [口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
-        -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
-        -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
-        -   [还是朋友](./albums/1995-03-27-hspy/1995-03-27-hspy.md)
-        -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
-        -   [自由歌](./albums/1994-01-xx-zyg/1994-01-xx-zyg.md)
-        -   [一天到晚游泳的鱼](./albums/1993-08-24-ytdwyydy/1993-08-24-ytdwyydy.md)
-        -   [大海](./albums/1992-12-xx-dh/1992-12-xx-dh.md)
-        -   [张雨生创作专辑（带我去月球）](./albums/1992-02-24-zysczzj/1992-02-24-zysczzj.md)
-        -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
         -   [天天想你](./albums/1988-11-xx-ttxn/1988-11-xx-ttxn.md)
+        -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
+        -   [张雨生创作专辑（带我去月球）](./albums/1992-02-24-zysczzj/1992-02-24-zysczzj.md)
+        -   [大海](./albums/1992-12-xx-dh/1992-12-xx-dh.md)
+        -   [一天到晚游泳的鱼](./albums/1993-08-24-ytdwyydy/1993-08-24-ytdwyydy.md)
+        -   [自由歌](./albums/1994-01-xx-zyg/1994-01-xx-zyg.md)
+        -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
+        -   [还是朋友](./albums/1995-03-27-hspy/1995-03-27-hspy.md)
+        -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
+        -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
+        -   [口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
     -   纪念专辑
-        -   [乐界](./albums/2022-04-13-yj/2022-04-13-yj.md)
-        -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
         -   [雨生欢禧城](./albums/2003-10-24-yshxc/2003-10-24-yshxc.md)
+        -   [如燕盘旋而来的思念](./albums/2008-02-27-rypxeldsn/2008-02-27-rypxeldsn.md)
+        -   [乐界](./albums/2022-04-13-yj/2022-04-13-yj.md)
     -   合作专辑
-        -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
-        -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
-        -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
         -   [7 匹狼 电影原声带](./albums/1989-03-xx-qpldyysd/1989-03-xx-qpldyysd.md)
+        -   [6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
+        -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
+        -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
 
 -   文章
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
