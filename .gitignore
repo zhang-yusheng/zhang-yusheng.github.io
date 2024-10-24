@@ -1,6 +1,11 @@
-_book
+# node_modules
+node_modules
 
-# Mac files
+# build output
+_book
+**/dist
+
+# mac files
 .DS_Store
 ._.DS_Store
 **/.DS_Store
@@ -9,6 +14,7 @@ _book
 # IDE config
 *.code-workspace
 
+# project organization
 tosort
 photos
 organize
