@@ -16,12 +16,15 @@ permissions:
 
 # 並發控制：確保不同的工作流不會相互干擾
 concurrency:
-  group: "pages"
+  group: "pages-vitepress"
   cancel-in-progress: false
 
 jobs:
   # 第一個任務：部署基礎網站（不含電子書）
   deploy-site:
+    environment:
+      name: github-pages  # 明確指定環境
+      url: ${{ steps.deployment.outputs.page_url }}  # 添加部署 URL 輸出
     runs-on: ubuntu-latest
     env:
       USER_NAME: zhang-yusheng
