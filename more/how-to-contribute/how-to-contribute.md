@@ -194,8 +194,6 @@ zhang-yusheng.github.io
 
 未来可能还会有新的文件夹存放对应资料
 
-详细参考：[目录结构](STRUCTURE.md)
-
 ## 文件夹和网址的对应关系
 
 `SUMMARY.md` 定义了网站左侧目录的结构，在 `SUMMARY.md` 中通过相对路径引用的 markdown 文件会被发布到网站上。

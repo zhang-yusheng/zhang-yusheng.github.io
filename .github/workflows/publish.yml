@@ -1,8 +1,8 @@
-name: "Build and deploy website with books"
+name: "Build and deploy VitePress website with books"
 on:
   push:
     branches:
-      - main
+      - test-vitepress
   workflow_dispatch:
 
 permissions:
@@ -21,20 +21,33 @@ jobs:
       USER_NAME: zhang-yusheng
       USER_EMAIL: zhang-yusheng@qq.com
     steps:
-      - name: set Timezone as Shanghai
+      - name: Set Timezone as Shanghai
         run: sudo timedatectl set-timezone Asia/Shanghai
+      
       - uses: actions/checkout@v4
+        with:
+          ref: test-vitepress
+      
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      
+      - name: Install dependencies
+        run: npm i
+      
+      - name: Build VitePress site
+        run: npm run docs:build
+      
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: .vitepress/dist
           name: site-artifact
+      
       - name: Deploy site
         id: deployment
         uses: actions/deploy-pages@v4
@@ -48,33 +61,58 @@ jobs:
       USER_NAME: zhang-yusheng
       USER_EMAIL: zhang-yusheng@qq.com
     steps:
-      - name: set Timezone as Shanghai
+      - name: Set Timezone as Shanghai
         run: sudo timedatectl set-timezone Asia/Shanghai
+      
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          ref: test-vitepress
+      
+      - name: Download site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site-artifact
+          path: .vitepress/dist
+      
       - name: Cache APT Packages
         uses: awalsh128/cache-apt-pkgs-action@latest
         with:
           packages: calibre fonts-arphic-ukai
           version: 1.0
+      
       - name: Run package installation script
         run: |
           chmod +x ./scripts/install_packages.sh
           ./scripts/install_packages.sh
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+      
       - name: Build Books
         run: |
           chmod +x ./scripts/build_books.sh
           ./scripts/build_books.sh
+      
+      - name: Copy books to dist
+        run: |
+          mkdir -p .vitepress/dist/ebooks
+          
+          cp -r ./ebooks/* .vitepress/dist/ebooks/ || {
+            echo "Failed to copy ebooks. Current directory structure:"
+            ls -R
+            exit 1
+          }
+
+          echo "Content of .vitepress/dist/ebooks:"
+          ls -la .vitepress/dist/ebooks
+      
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      
       - name: Upload full artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: .vitepress/dist
           name: full-site-artifact
+      
       - name: Deploy full site
         id: deployment
         uses: actions/deploy-pages@v4

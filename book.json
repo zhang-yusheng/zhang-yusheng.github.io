@@ -12,7 +12,7 @@
     "fontFamily": "AR PL UKai CN"
   },
   "pluginsConfig": {
-    "favicon": "./img/fav.ico",
+    "favicon": "./public/favicon.ico",
     "anchor-navigation-ex": {
       "showLevel": false
     },
