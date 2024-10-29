@@ -1,59 +1,80 @@
+# 工作流名稱：構建並部署帶電子書的 VitePress 網站
 name: "Build and deploy VitePress website with books"
+
+# 觸發條件：當 test-vitepress 分支有推送時，或手動觸發
 on:
   push:
     branches:
       - test-vitepress
   workflow_dispatch:
 
+# 權限設置
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# 並發控制：確保不同的工作流不會相互干擾
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
+  # 第一個任務：部署基礎網站（不含電子書）
   deploy-site:
     runs-on: ubuntu-latest
     env:
       USER_NAME: zhang-yusheng
       USER_EMAIL: zhang-yusheng@qq.com
     steps:
+      # 設置時區為上海
       - name: Set Timezone as Shanghai
         run: sudo timedatectl set-timezone Asia/Shanghai
       
+      # 檢出代碼
       - uses: actions/checkout@v4
         with:
           ref: test-vitepress
       
+      # 設置 Node.js 環境
       - uses: actions/setup-node@v4
         with:
           node-version: 20
       
+      # 安裝依賴
       - name: Install dependencies
         run: npm i
       
+      # 構建 VitePress 站點
       - name: Build VitePress site
         run: npm run docs:build
       
+      # 準備部署目錄，將構建產物移動到 vitepress 子目錄
+      - name: Prepare deployment directory
+        run: |
+          mkdir -p ./deploy/vitepress
+          mv .vitepress/dist/* ./deploy/vitepress/
+      
+      # 配置 GitHub Pages
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       
+      # 上傳網站構建產物
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .vitepress/dist
+          path: ./deploy
           name: site-artifact
       
+      # 部署到 GitHub Pages
       - name: Deploy site
         id: deployment
         uses: actions/deploy-pages@v4
         with:
           artifact_name: site-artifact
 
+  # 第二個任務：部署完整網站（包含電子書）
   deploy-with-books:
     needs: deploy-site
     runs-on: ubuntu-latest
@@ -61,60 +82,75 @@ jobs:
       USER_NAME: zhang-yusheng
       USER_EMAIL: zhang-yusheng@qq.com
     steps:
+      # 設置時區
       - name: Set Timezone as Shanghai
         run: sudo timedatectl set-timezone Asia/Shanghai
       
+      # 檢出代碼
       - uses: actions/checkout@v4
         with:
           ref: test-vitepress
       
+      # 下載之前構建的網站產物
       - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
           name: site-artifact
-          path: .vitepress/dist
+          path: ./deploy
       
+      # 安裝所需的系統包
       - name: Cache APT Packages
         uses: awalsh128/cache-apt-pkgs-action@latest
         with:
           packages: calibre fonts-arphic-ukai
           version: 1.0
       
+      # 運行包安裝腳本
       - name: Run package installation script
         run: |
           chmod +x ./scripts/install_packages.sh
           ./scripts/install_packages.sh
       
+      # 構建電子書
       - name: Build Books
         run: |
           chmod +x ./scripts/build_books.sh
           ./scripts/build_books.sh
       
+      # 將電子書複製到部署目錄
       - name: Copy books to dist
         run: |
-          mkdir -p .vitepress/dist/ebooks
+          # 在 vitepress 子目錄下創建 ebooks 目錄
+          mkdir -p ./deploy/vitepress/ebooks
           
-          cp -r ./ebooks/* .vitepress/dist/ebooks/ || {
-            echo "Failed to copy ebooks. Current directory structure:"
+          # 複製電子書到指定目錄
+          cp -r ./ebooks/* ./deploy/vitepress/ebooks/ || {
+            echo "複製電子書失敗。當前目錄結構："
             ls -R
             exit 1
           }
 
-          echo "Content of .vitepress/dist/ebooks:"
-          ls -la .vitepress/dist/ebooks
+          echo "deploy/vitepress/ebooks 目錄內容："
+          ls -la ./deploy/vitepress/ebooks
       
+      # 配置 GitHub Pages
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       
+      # 上傳完整網站產物
       - name: Upload full artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .vitepress/dist
+          path: ./deploy
           name: full-site-artifact
       
+      # 部署完整網站
       - name: Deploy full site
         id: deployment
         uses: actions/deploy-pages@v4
         with:
           artifact_name: full-site-artifact
+
+# 註：部署完成後，網站將可以通過 https://zhang-yusheng.github.io/vitepress 訪問
+# 要移除中文註釋時，只需刪除以 # 開頭的中文行即可
