@@ -1,8 +1,8 @@
 # 卡拉 OK·台北·我[^1]
 
-# 文案
+![cover](./01-cover.jpg)
 
-![文案](./description.jpg)
+# 文案
 
 我开始想做这张唱片的时候，野心并不大。在国外行之有年的录音架构下，来比较本专辑的“划时代意义”是极为可笑的，所以我只是用再平常不过的心情，筹备一张不太电子的唱片而已，前人典范多有，何必大惊小怪！可是偏偏越走、越觉得压力无处不在；越陷进去、越发现其深奥实在令人乍舌；越接近完成、越感受到一股非与众不同不可的迷思！一些同业认为在商业机制下，我有够胆大妄为，制作助理一再提醒我费用超支的情况，公司内部屡屡投来的迷惘但同情的目光，为宣传的切入点伤透脑筋…，然而，状况与变数终会过去，唯有作品会留下来，那些用心、那些灵光闪动瞬间的惊喜会不断带给后继的人希望！
 
@@ -22,9 +22,13 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 我是多么想
 
-![我是多么想](./wsdmx.jpg)
-
-## 歌词
+数来宝特别指导：丁仲  
+数来宝间怪打击乐器：张雨生  
+BASIC RHYTHM & BIG SOLO E.GT.：倪方来  
+INTRO E.GT. SOLO：江建民  
+INTRO E.GT. SOLO RECORDED BY 陈冠宇  
+CHORUS ARRANGED BY 马毓芬  
+CHORUS GROUP：马毓芬、黄丽星
 
 让我握住你瘦骨嶙峋的小手  
 让我捧起你茫然无神的面孔  
@@ -72,9 +76,14 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 动物的悲歌
 
-![动物的悲歌](./dwdbg.jpg)
-
-## 歌词
+SPECIAL REPORTER：陶晶莹  
+RHYTHM GT.& JAZZY SOLO：倪方来  
+BRASS ARRANGED BY Koji Sakurai  
+TRUMPET & TROMBONE：Lito  
+ALTO SAX. & FLUTE：Met  
+TENOR & SOPRANO SAX：张家铭  
+CHORUS ARRANGED BY 马毓芬  
+CHORUS GROUP：马毓芬、黄丽星、林一平、王天佑
 
 小黑与小花孪生于晨光下  
 也是母亲心里呵藏已久的愿望  
@@ -124,9 +133,14 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 灵光
 
-![灵光](./lg.jpg)
-
-## 歌词
+古典乐段出处：  
+第一左边的 Guitar —— Inventionen（Bach）  
+第二中间的合唱与弦乐 —— Symphony No.9（Beethoven）  
+第二右边的钢琴 —— MUSETTE（Bach）  
+第四段中间的合唱 —— Ha - le - lu - jah（Handel）  
+第五段左边的弦乐 —— The Four Seasons（Vivaldi）  
+GRAND PIANO：Ricky Ho  
+E.GT. & ACOUSTIC GT.：江建民
 
 我珍藏的记忆 随风轻抚心灵  
 我钟爱的旋律 随意朗朗行吟  
@@ -157,9 +171,12 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 永公街的街长
 
-![永公街的街长](./ygjdjz.jpg)
-
-## 歌词
+口白：文英  
+E.GT. & ACOUSTIC GT. (BASIC ARP.)：江建民  
+TENOR SAX. SOLO：张家铭  
+ENDING FEMALE SOLO：马毓芬  
+CHORUS GROUP：王天佑、刘明德、林一平  
+月琴：巫兴昌
 
 我来念歌 请您仔细听  
 那个永公街上 说有一个奇怪的人  
@@ -191,9 +208,8 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 子夜纾怀
 
-![子夜纾怀](./zysh.jpg)
-
-## 歌词
+前奏音乐取自 Rachmaninoff 的 Vocalise  
+GRAND PIANO：Ricky Ho
 
 好一阵山风  
 好一轮秋月  
@@ -222,9 +238,7 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 兄弟呀
 
-![兄弟呀](./xdy.jpg)
-
-## 歌词
+INTRO ACOUSTIC GT. & E.GT. BIG SOLO：杜仲杰
 
 当你这样看着我  
 当我这样面对你  
@@ -261,9 +275,10 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 这一年这一夜
 
-![这一年这一夜](zynzyy.jpg)
-
-## 歌词
+GRAND PIANO: Ricky Ho  
+CHORUS：马丽华、林咪咪、李鼎慧、王天佑、刘明德、林一平  
+FEMALE "WU" ARRANGED BY 杨新玲  
+E.GT. & ACOUSTIC GT.：江建民
 
 太阳烧红了海洋  
 海洋包容了太阳  
@@ -300,9 +315,11 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 我的心在发烫
 
-![我的心在发烫](wdxzft.jpg)
-
-## 歌词
+KARAOKE & ENDING IMPROVISED VOCAL：陶晶莹  
+E.GT：李庭匡  
+CHORUS ARRANGED BY 马毓芬  
+CHORUS GROUP：马毓芬、黄丽星、谢文德、刘文毅（FAT BASS）  
+吆喝：Killer
 
 累不累 倦不倦  
 让我来为你 挑动心弦  
@@ -325,9 +342,11 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 后知后觉
 
-![后知后觉](./hzhj.jpg)
-
-## 歌词
+BRASS ARRANGED BY Koji Sakurai  
+TRUMPET & TROMBONE：Lito  
+TENOR & SOPRANO SAX.：张家铭  
+CHORUS ARRANGED BY 马毓芬  
+CHORUS GROUP：马毓芬、黄丽星、谢文德、刘文毅
 
 你披星戴月  
 你不辞冰雪  
@@ -349,10 +368,6 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 我才后知后觉
 
 # 蝴蝶结
-
-![蝴蝶结](./hdj.jpg)
-
-## 歌词
 
 烫金的滚边 墨绿的绒面  
 对称的折线 贴紧中间的圆  
@@ -384,9 +399,7 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 跟得上我吧
 
-![跟得上我吧](./gdswb.jpg)
-
-## 歌词
+INTRO ACOUSTIC GT. AND CHORDS ARRANGEMENT 杜仲杰
 
 你何不问我  
 你何不问我  
@@ -407,9 +420,7 @@ LIVE！卡拉 OK 是音乐的初始：我们知道每一张专辑都会有一位
 
 # 我期待
 
-![我期待](./wqd.jpg)
-
-## 歌词
+GRAND PIANO:Ricky Ho (INTRO NOT INCLUDING)
 
 我期待 有一天我会回来  
 回到我最初的爱  
@@ -431,11 +442,13 @@ Say Goodbye
 Say Goodbye  
 昂首阔步 不留一丝遗憾
 
-# 再见兰花草
+# 再见 兰花草！
 
-![再见兰花草](./zjlhc.jpg)
-
-## 歌词
+SOLO VIOLIN：赖佳奇  
+E.GT SOLO (LEFT) & ENDING WAH - WAH GT.：江建民  
+E.GT SOLO (RIGHT) & CLEAN RHYTHM GT.：李庭匡  
+齐唱：马丽华、林咪咪、李鼎慧、王天佑、刘明德、林一平  
+齐唱分部：杨新玲
 
 谁从山中来 带着兰花草  
 也曾勤灌溉 长得一园好  
@@ -460,8 +473,6 @@ Say Goodbye
 
 # 致谢
 
-![致谢](./thanks.jpg)
-
 本专辑在四个台风肆虐之下，仍然“如期”完工，不能不感谢以下诸人：
 
 Lulu 与录音师不眠不休的配合，Koji，豆子与同学无怨无悔的付出，  
@@ -476,12 +487,98 @@ Lulu 与录音师不眠不休的配合，Koji，豆子与同学无怨无悔的�
 
 张雨生 83[^3].8.20.
 
+# 专辑照片
+
+![album-cover](./album-cover.jpg)
+
+![cover](./01-cover.jpg)
+
+![文案](./02-description.jpg)
+
+![我是多么想](./03-wsdmx.jpg)
+
+![动物的悲歌](./04-dwdbg.jpg)
+
+![灵光 & 永公街的街长](./05-lg-ygjdjz.jpg)
+
+![写真](./06-portraits-1.jpg)
+
+![子夜纾怀 & 兄弟呀](./07-zysh-xdy.jpg)
+
+![写真](./08-portraits-2.jpg)
+
+![这一年这一夜](./09-zynzyy.jpg)
+
+![我的心在发烫 & 后知后觉](./10-wdxzft-hzhj.jpg)
+
+![蝴蝶结 & 跟得上我吧](./11-hdj-gdswb.jpg)
+
+![我期待 & 再见 兰花草！](./12-wqd-zjlhc.jpg)
+
+![致谢](./13-thanks.jpg)
+
+![封底](./14-back-cover.jpg)
+
+![唱片封底](./album-back-cover.jpg)
+
+# 制作团队
+
+|        负责        |     人员 / 团队      |
+| :----------------: | :------------------: |
+|        发行        | 飞碟企业股份有限公司 |
+|        词曲        |        张雨生        |
+|       制作人       |        张雨生        |
+| 助理制作兼行政打点 |        杨新玲        |
+|        编曲        |       The Band       |
+
+Band crew:
+
+|      人员       |                                 负责                                 |
+| :-------------: | :------------------------------------------------------------------: |
+|     张雨生      | Lead & Background Vocal(everywhere)、Solo & Rhythm Guitar(somewhere) |
+| Koji Sakurai 好 |                      All keyboards、Grand piano                      |
+|  姜永正 '豆子'  |                         Drums & Percussions                          |
+|  谭明辉 '同学'  |                       Electric & Fretless Bass                       |
+
+|     乐器      |           人员           |
+| :-----------: | :----------------------: |
+| ORCHESTRATION |       Koji Sakurai       |
+| FIRST VIOLIN  | 赖佳奇\*、杨纪伟、黄维明 |
+| SECOND VIOLIN | 陈婷兰\*、陈美芳、江宜璋 |
+|     VIOLA     | 朱盈菁\*、刘慧璘、陈逸农 |
+|     CELLO     |     周孟颖\*、韩慧云     |
+|  DOUBLE BASS  |          黄新财          |
+|   CLARINET    |         刘馥绫\*         |
+|     FLUTE     |         郭瑜倩\*         |
+|     OBOE      |         吴淑蓉\*         |
+
+Basic tracked, Dubbed, Mixed and mastered  
+at 白金录音室（PLATINUM STUDIO）  
+by Mr.Killer K  
+Effect Edited by 江天赋  
+陶晶莹 Vocal recorded by 黄卓叡  
+（SPECIAL THANKS TO A-STRING STUDIO）
+
+|   负责    |                    人员                    |
+| :-------: | :----------------------------------------: |
+|   策划    |                   彭素秋                   |
+|   文案    |                   张雨生                   |
+| 发型·化妆 |                   潘莲丽                   |
+|   摄影    |                   潘重威                   |
+|   设计    | Album Design Unit<br>AD/杜达雄<br>D/王鹤治 |
+
+飞碟企业股份有限公司 1994 年 8 月出版发行  
+Ⓟ1994 飞碟企业股份有限公司  
+Ⓒ1994 飞碟企业股份有限公司
+
+# 相关链接
+
+-   [《动物的悲歌》陶晶莹部分歌词 - music.163.com](https://music.163.com/#/song?id=187861)
+-   [卡拉 Ok▪ 台北 ▪ 我\-专辑\-张雨生网站 \- TOMCHANG\.CN](https://www.tomchang.cn/music/album/320.html)
+
+整理：郈斐、健健
+校对：健健
+
 [^1]: 各音乐平台也称此专辑为「卡拉 OK.台北.我」，本资料按照专辑封面命名。
 [^2]: 应该是「Quantize」，专辑里可能打错字了
 [^3]: 民国 83 年，公元 1994 年。
-
-# 参考
-
-相关链接：
-
--   [动物的悲歌-网易云音乐](https://music.163.com/#/song?id=187861)
