@@ -533,12 +533,12 @@ Lulu 与录音师不眠不休的配合，Koji，豆子与同学无怨无悔的�
 
 Band crew:
 
-|      人员       |                                 负责                                 |
-| :-------------: | :------------------------------------------------------------------: |
-|     张雨生      | Lead & Background Vocal(everywhere)、Solo & Rhythm Guitar(somewhere) |
-| Koji Sakurai 好 |                      All keyboards、Grand piano                      |
-|  姜永正 '豆子'  |                         Drums & Percussions                          |
-|  谭明辉 '同学'  |                       Electric & Fretless Bass                       |
+|        人员         |                                 负责                                 |
+| :-----------------: | :------------------------------------------------------------------: |
+|       张雨生        | Lead & Background Vocal(everywhere)、Solo & Rhythm Guitar(somewhere) |
+| Koji Sakurai ‘好！’ |                      All keyboards、Grand piano                      |
+|    姜永正 ‘豆子’    |                         Drums & Percussions                          |
+|    谭明辉 ‘同学’    |                       Electric & Fretless Bass                       |
 
 |     乐器      |           人员           |
 | :-----------: | :----------------------: |
