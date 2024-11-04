@@ -576,7 +576,7 @@ Effect Edited by 江天赋
 -   [《动物的悲歌》陶晶莹部分歌词 - music.163.com](https://music.163.com/#/song?id=187861)
 -   [卡拉 Ok▪ 台北 ▪ 我\-专辑\-张雨生网站 \- TOMCHANG\.CN](https://www.tomchang.cn/music/album/320.html)
 
-整理：郈斐、健健
+整理：郈斐、健健  
 校对：健健
 
 [^1]: 各音乐平台也称此专辑为「卡拉 OK.台北.我」，本资料按照专辑封面命名。
