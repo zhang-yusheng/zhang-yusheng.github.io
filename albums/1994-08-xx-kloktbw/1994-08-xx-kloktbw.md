@@ -540,17 +540,17 @@ Band crew:
 |    姜永正 ‘豆子’    |                         Drums & Percussions                          |
 |    谭明辉 ‘同学’    |                       Electric & Fretless Bass                       |
 
-|     乐器      |           人员           |
-| :-----------: | :----------------------: |
-| ORCHESTRATION |       Koji Sakurai       |
-| FIRST VIOLIN  | 赖佳奇\*、杨纪伟、黄维明 |
-| SECOND VIOLIN | 陈婷兰\*、陈美芳、江宜璋 |
-|     VIOLA     | 朱盈菁\*、刘慧璘、陈逸农 |
-|     CELLO     |     周孟颖\*、韩慧云     |
-|  DOUBLE BASS  |          黄新财          |
-|   CLARINET    |         刘馥绫\*         |
-|     FLUTE     |         郭瑜倩\*         |
-|     OBOE      |         吴淑蓉\*         |
+|     乐器      |             人员             |
+| :-----------: | :--------------------------: |
+| ORCHESTRATION |         Koji Sakurai         |
+| FIRST VIOLIN  | 赖佳奇\*[^4]、杨纪伟、黄维明 |
+| SECOND VIOLIN |   陈婷兰\*、陈美芳、江宜璋   |
+|     VIOLA     |   朱盈菁\*、刘慧璘、陈逸农   |
+|     CELLO     |       周孟颖\*、韩慧云       |
+|  DOUBLE BASS  |            黄新财            |
+|   CLARINET    |           刘馥绫\*           |
+|     FLUTE     |           郭瑜倩\*           |
+|     OBOE      |           吴淑蓉\*           |
 
 Basic tracked, Dubbed, Mixed and mastered  
 at 白金录音室（PLATINUM STUDIO）  
@@ -582,3 +582,4 @@ Effect Edited by 江天赋
 [^1]: 各音乐平台也称此专辑为「卡拉 OK.台北.我」，本资料按照专辑封面命名。
 [^2]: 应该是「Quantize」，专辑里可能打错字了
 [^3]: 民国 83 年，公元 1994 年。
+[^4]: 加 \* 的为客串演出的乐手
