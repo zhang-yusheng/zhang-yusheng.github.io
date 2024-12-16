@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="AfgVbZnFRUw6qyYt4fwU" name="Page-1">
+        <mxGraphModel dx="878" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="171" width="79" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="团队页" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;direction=west;fillColor=default;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="48" y="160" width="80" height="62.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="歌词页" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;direction=east;flipV=1;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="114" y="156.25" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="歌词页" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;direction=west;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="184" y="156.25" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="歌词页" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;direction=west;flipV=1;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="254" y="156.25" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="14" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="128" y="201" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="15" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="204" y="201" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="274" y="201" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="59.5" y="192.5" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="210" width="40" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
