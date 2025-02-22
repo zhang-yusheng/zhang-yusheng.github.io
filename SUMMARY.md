@@ -33,6 +33,7 @@
 -   信札
     -   情书
         -   [生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
+        -   [「爱」不在最美的时刻说，那要在什么时候出口呢？](./letters/1992-06-16-say-love/1992-06-16-say-love.md)
     -   致同事
     -   致歌迷
 -   访谈
