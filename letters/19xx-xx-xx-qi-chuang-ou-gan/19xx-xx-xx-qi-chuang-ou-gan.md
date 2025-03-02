@@ -19,7 +19,7 @@
 
 阳明山小怪
 
-![page-1](./page-1.jpg)
+![起床偶感](./qi-chuang-ou-gan.jpg)
 
 ## 页面缺陷
 
