@@ -620,11 +620,11 @@ And it is no way out 就算你知道 这情况 你也救不了
 谁的良心在呻吟  
 谁的良心会刺痛
 
-| 參考                                                                                                                 |
+| 参考                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------- |
 | [【因雨而生】《未来启示录（新版）》歌词问题 - https://tieba.baidu.com/](https://tieba.baidu.com/p/731647849)         |
 | [现代启示录 (新版) - https://music.163.com/](https://music.163.com/#/song?id=186932)                                 |
-| [\[歌詞\] 現代啟示錄 (新版) 的歌詞 - https://www.ptt.cc/](https://www.ptt.cc/bbs/Metal_kids/M.1399472644.A.92C.html) |
+| [\[歌词\] 现代启示录 (新版) 的歌词 - https://www.ptt.cc/](https://www.ptt.cc/bbs/Metal_kids/M.1399472644.A.92C.html) |
 
 ## 赞美 (Demo)
 

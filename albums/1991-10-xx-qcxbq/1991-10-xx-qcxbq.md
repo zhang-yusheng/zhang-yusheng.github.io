@@ -122,7 +122,7 @@
 
 # 参考
 
--   [張雨生『這一刻鐘你在想什麼』demo 高清音質版\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1aU4y117U4/)
+-   [张雨生『这一刻钟你在想什么』demo 高清音质版\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1aU4y117U4/)
 -   [张雨生《分不清》Demo\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1as411N7Nm/)
 
 整理：洋昆，健健

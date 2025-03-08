@@ -5,5 +5,5 @@
 相关链接
 
 -   [张雨生 92 年罕见内地演出视频曝光 渴望助力北京奥运](https://v.cctv.com/2019/04/24/VIDEErSiBbfb0HLJjMl4rFug190424.shtml)
--   [帶我去月球 LIVE 現場演唱 張雨生](https://www.bilibili.com/video/BV1AJ4116742/)
+-   [带我去月球 LIVE 现场演唱 张雨生](https://www.bilibili.com/video/BV1AJ4116742/)
 -   [【国语现场】张雨生 92 年来内地《我的未来不是梦》](https://www.bilibili.com/video/BV1VR4y1L7zf/)
