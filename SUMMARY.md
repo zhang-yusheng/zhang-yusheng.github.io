@@ -33,6 +33,7 @@
 -   信札
     -   家书
         -   [成功岭受训书](./letters/1985-09-07-letter-from-chengkungling/1985-09-07-letter-from-chengkungling.md)
+        -   [开学后心境](./letters/1986-03-24-mood-after-school-starts/1986-03-24-mood-after-school-starts.md)
     -   情书
         -   [起床偶感](./letters/19xx-xx-xx-qi-chuang-ou-gan/19xx-xx-xx-qi-chuang-ou-gan.md)
         -   [生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
