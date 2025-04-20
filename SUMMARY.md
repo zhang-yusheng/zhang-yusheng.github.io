@@ -36,6 +36,7 @@
         -   [开学后心境](./letters/1986-03-24-mood-after-school-starts/1986-03-24-mood-after-school-starts.md)
         -   [一年级心得](./letters/1986-05-21-retrospect-on-freshman-year/1986-05-21-retrospect-on-freshman-year.md)
         -   [商谈在外租房子](./letters/1986-12-19-rent-outside/1986-12-19-rent-outside.md)
+        -   [生活计划书](./letters/1987-05-05-my-plans/1987-05-05-my-plans.md)
     -   情书
         -   [起床偶感](./letters/19xx-xx-xx-qi-chuang-ou-gan/19xx-xx-xx-qi-chuang-ou-gan.md)
         -   [生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
