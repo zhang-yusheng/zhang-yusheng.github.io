@@ -23,7 +23,7 @@
   <line class="line" x1="200" y1="140" x2="200" y2="170" />
   <line class="line" x1="600" y1="140" x2="600" y2="170" />
   <text x="200" y="190" text-anchor="middle">总发游</text>
-  <text x="600" y="190" text-anchor="middle">这一夜我睡不著</text>
+  <text x="600" y="190" text-anchor="middle">这一夜我睡不着</text>
   
   <!-- Third level left -->
   <line class="line" x1="200" y1="200" x2="200" y2="220" />
