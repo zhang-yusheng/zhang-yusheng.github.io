@@ -42,8 +42,10 @@
         -   [生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
         -   [带着爱的花粉种子，随时准备将生命的欣喜落脚](./letters/199x-xx-xx-seeds-of-love/199x-xx-xx-seeds-of-love.md)
         -   [「爱」不在最美的时刻说，那要在什么时候出口呢？](./letters/1992-06-16-say-love/1992-06-16-say-love.md)
+        -   [严肃呆板的我写不出好情书](./letters/1992-07-26-i-can-not-craft-a-heartfelt-love-letter/1992-07-26-i-can-not-craft-a-heartfelt-love-letter.md)
     -   致同事
     -   致歌迷
+        -   [雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
 -   访谈
     -   [张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
