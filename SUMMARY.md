@@ -44,6 +44,7 @@
         -   [「爱」不在最美的时刻说，那要在什么时候出口呢？](./letters/1992-06-16-say-love/1992-06-16-say-love.md)
         -   [严肃呆板的我写不出好情书](./letters/1992-07-26-i-can-not-craft-a-heartfelt-love-letter/1992-07-26-i-can-not-craft-a-heartfelt-love-letter.md)
         -   [未来是什么](./letters/1992-09-11-what-is-future/1992-09-11-what-is-future.md)
+        -   [归去来兮](./letters/1993-01-01-homeward-bound/1993-01-01-homeward-bound.md)
     -   致同事
     -   致歌迷
         -   [雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
