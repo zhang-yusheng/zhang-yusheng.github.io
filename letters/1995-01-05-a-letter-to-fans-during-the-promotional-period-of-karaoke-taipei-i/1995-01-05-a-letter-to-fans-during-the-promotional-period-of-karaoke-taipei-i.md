@@ -53,6 +53,8 @@ Adios，我的朋友，这一封既不文情并茂也不惊天泣地的信终娓
 
 「你微笑着不对我说什么，我觉得这正是我已经久候的。」
 
+From YANGMING mt.
+
 张雨生 January 5 1995
 
 ![a-letter-to-fans-during-the-promotional-period-of-karaoke-taipei-i](./a-letter-to-fans-during-the-promotional-period-of-karaoke-taipei-i-1.jpg)
