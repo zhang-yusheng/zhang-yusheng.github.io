@@ -45,6 +45,7 @@
         -   [严肃呆板的我写不出好情书](./letters/1992-07-26-i-can-not-craft-a-heartfelt-love-letter/1992-07-26-i-can-not-craft-a-heartfelt-love-letter.md)
         -   [未来是什么](./letters/1992-09-11-what-is-future/1992-09-11-what-is-future.md)
         -   [归去来兮](./letters/1993-01-01-homeward-bound/1993-01-01-homeward-bound.md)
+        -   [尼泊尔之行](./letters/1995-04-02-trip-to-nepal/1995-04-02-trip-to-nepal.md)
     -   致同事
     -   致歌迷
         -   [雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
