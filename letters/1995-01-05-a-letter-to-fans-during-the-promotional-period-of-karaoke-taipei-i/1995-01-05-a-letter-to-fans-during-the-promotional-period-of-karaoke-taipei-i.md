@@ -61,7 +61,8 @@ From YANGMING mt.
 
 ## 参考
 
--   [『卡拉 Ok‧台北‧我』宣传期写给歌迷的一封信-信札-张雨生网站 - tomchang.cn](https://tomchang.cn/archive/letter/69.html)
+-   [『卡拉 Ok‧台北‧我』宣传期写给歌迷的一封信 - tomchang.cn](https://www.tomchang.cn/archive/letter/69.html)
+-   [「卡拉 OK‧台北‧我」宣傳期寫給歌迷的一封信 - yu-sheng.org](https://web.archive.org/web/20070709000330/http://www.yu-sheng.org/Literature/showlit.php?type=4&rank=2)
 
 出处为《雨生朋友会会刊 ​》1999 年 ​​​​​​​
 

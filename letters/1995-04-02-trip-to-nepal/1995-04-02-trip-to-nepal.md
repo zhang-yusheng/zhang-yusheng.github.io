@@ -12,4 +12,8 @@
 
 当前页面缺陷：不知道信件开头的 567 什么意思
 
+## 参考
+
+[张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
 [^1]: 「ㄇㄚ」读作「ma」，类似「乌漆麻黑」，参考 [乌漆麻黑还是黑漆麻乌？ - zhihu.com](https://www.zhihu.com/question/26062768)
