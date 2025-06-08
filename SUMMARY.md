@@ -47,6 +47,7 @@
         -   [归去来兮](./letters/1993-01-01-homeward-bound/1993-01-01-homeward-bound.md)
         -   [尼泊尔之行](./letters/1995-04-02-trip-to-nepal/1995-04-02-trip-to-nepal.md)
     -   致同事
+        -   [致丰华唱片企宣同事的信](./letters/1997-xx-xx-to-forward-music-colleagues/1997-xx-xx-to-forward-music-colleagues.md)
     -   致歌迷
         -   [雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
         -   [「卡拉 Ok‧台北‧我」宣传期写给歌迷的一封信](./letters/1995-01-05-a-letter-to-fans-during-the-promotional-period-of-karaoke-taipei-i/1995-01-05-a-letter-to-fans-during-the-promotional-period-of-karaoke-taipei-i.md)
