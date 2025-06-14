@@ -48,6 +48,7 @@
         -   [尼泊尔之行](./letters/1995-04-02-trip-to-nepal/1995-04-02-trip-to-nepal.md)
     -   致同事
         -   [致丰华唱片企宣同事的信](./letters/1997-xx-xx-to-forward-music-colleagues/1997-xx-xx-to-forward-music-colleagues.md)
+        -   [雨生为《口是心非》发行写给丰华唱片老总彭国华的一封信](./letters/1997-xx-xx-a-letter-to-guohua.md)
     -   致歌迷
         -   [雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
         -   [给歌迷系雨的一封信](./letters/1994-xx-xx-a-letter-to-xiyu/1994-xx-xx-a-letter-to-xiyu.md)
