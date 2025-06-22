@@ -46,7 +46,7 @@
 ![施主我的朋友](./benefactor-my-friend-1.jpg)
 ![施主我的朋友](./benefactor-my-friend-2.jpg)
 
-页面缺陷：：
+页面缺陷：
 
 1. 创作时间未知
 
