@@ -29,7 +29,9 @@
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
 
 -   文章
+    -   [永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
+    -   [淡水感言](./articles/19xx-xx-xx-reflections-on-tamsui/19xx-xx-xx-reflections-on-tamsui.md)
 -   信札
     -   家书
         -   [成功岭受训书](./letters/1985-09-07-letter-from-chengkungling/1985-09-07-letter-from-chengkungling.md)
