@@ -1,6 +1,5 @@
 -   [首页](README.md)
 -   专辑
-
     -   个人专辑
         -   [天天想你](./albums/1988-11-xx-ttxn/1988-11-xx-ttxn.md)
         -   [想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
@@ -27,9 +26,9 @@
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [Bad Boy](./albums/1997-06-11-bad-boy/1997-06-11-bad-boy.md)
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
-
 -   文章
     -   [永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
+    -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
     -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
     -   [淡水感言](./articles/19xx-xx-xx-reflections-on-tamsui/19xx-xx-xx-reflections-on-tamsui.md)
 -   信札
