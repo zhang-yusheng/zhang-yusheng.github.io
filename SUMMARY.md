@@ -30,7 +30,7 @@
     -   [张雨生的独白](./articles/1988-11-05-monologue/1988-11-05-monologue.md)
     -   [永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
     -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
-    -   [《跟你说真的》序](./articles/1994-0x-xx-preface-of-tell-you-the-truth.md)
+    -   [给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
     -   [我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
     -   [淡水感言](./articles/19xx-xx-xx-reflections-on-tamsui/19xx-xx-xx-reflections-on-tamsui.md)
 -   信札
