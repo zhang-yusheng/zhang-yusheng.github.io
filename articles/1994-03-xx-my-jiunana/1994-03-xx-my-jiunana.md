@@ -21,10 +21,9 @@
 
 ![我的酒娜娜](./my-jiunana.jpg)
 
-当前页面缺陷：
-
-1. 发表时间未知
-
 ## 参考
 
+本文刊登于 1994 年 3 月號《飛碟音樂 UFO TOUCH》第 91 期雜誌
+
+-   [Lee Yan Chun 的帖子 - facebook.com](https://www.facebook.com/groups/170418609638766/posts/26043075015279771/)
 -   [我的酒娜娜-文章-张雨生网站 - tomchang.cn](https://tomchang.cn/archive/article/60.html)
