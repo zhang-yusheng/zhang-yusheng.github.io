@@ -32,7 +32,7 @@
     -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
     -   [给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
     -   [我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
-    -   [暂别歌坛感言](./articles/1995-04-xx-temporary-farewell-to-the-music-scene.md)
+    -   [暂别歌坛感言](./articles/1995-04-xx-temporary-farewell-to-the-music-scene/1995-04-xx-temporary-farewell-to-the-music-scene.md)
     -   [淡水感言](./articles/19xx-xx-xx-reflections-on-tamsui/19xx-xx-xx-reflections-on-tamsui.md)
 -   信札
     -   家书
