@@ -28,6 +28,7 @@
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
 -   文章
     -   [我的乐观人生态度](./articles/198x-xx-xx-my-optimistic-attitude/198x-xx-xx-my-optimistic-attitude.md)
+    -   [张雨生曾亲自填写的档案](./articles/198x-xx-xx-self-filled-profile/198x-xx-xx-self-filled-profile.md)
     -   [张雨生的独白](./articles/1988-11-05-monologue/1988-11-05-monologue.md)
     -   [永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
     -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
