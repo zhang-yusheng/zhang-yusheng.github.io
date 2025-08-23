@@ -31,6 +31,7 @@
     -   [张雨生曾亲自填写的档案](./articles/198x-xx-xx-self-filled-profile/198x-xx-xx-self-filled-profile.md)
     -   [张雨生的独白](./articles/1988-11-05-monologue/1988-11-05-monologue.md)
     -   [永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
+    -   [在不断扬弃下，体现自我成长](./articles/1989-07-22-self-growth-amid-sublation.md)
     -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
     -   [从淡水小镇走出来](./articles/1993-01-01-emerging-from-little-town-of-tamsui/1993-01-01-emerging-from-little-town-of-tamsui.md)
     -   [给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
