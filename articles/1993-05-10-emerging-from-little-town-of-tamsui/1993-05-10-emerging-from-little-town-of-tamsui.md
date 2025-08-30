@@ -28,7 +28,7 @@
 
 ## 参考
 
-本文发表于 1993 年 1 月 1 日 的《PUSH 偶像杂志》第五期，146-149 页
+本文发表于 1993 年 5 月 10 日 的《PUSH 偶像杂志》第五期，146-149 页
 
 -   [图片来源蓁芯 0607 的微博 - weibo.com](https://m.weibo.cn/status/4648817972480040)
 -   [从淡水小镇走出来 - tomchang.cn](https://tomchang.cn/archive/article/58.html)
