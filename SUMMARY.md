@@ -10,6 +10,7 @@
         -   [卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
         -   [还是朋友](./albums/1995-03-27-hspy/1995-03-27-hspy.md)
         -   [白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
+        -   [红色热情](./albums/1996-07-12-hsrq/1996-07-12-hsrq.md)
         -   [口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
         -   [口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
     -   纪念专辑
