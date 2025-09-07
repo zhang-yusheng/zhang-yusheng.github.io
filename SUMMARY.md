@@ -35,6 +35,7 @@
     -   [好小子立志——我看台湾生命力](./articles/1990-11-30-youth-aspiration.md.md)
     -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
     -   [从淡水小镇走出来](./articles/1993-05-10-emerging-from-little-town-of-tamsui/1993-05-10-emerging-from-little-town-of-tamsui.md)
+    -   [名人看电视](./articles/1993-11-23-celebrities-watching-tv.md)
     -   [给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
     -   [我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
     -   [暂别歌坛感言](./articles/1995-04-xx-temporary-farewell-to-the-music-scene/1995-04-xx-temporary-farewell-to-the-music-scene.md)
