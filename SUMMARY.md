@@ -23,6 +23,7 @@
         -   [两个永恒电视主题曲全集](./albums/1994-10-xx-lgyhdsztqqj/1994-10-xx-lgyhdsztqqj.md)
         -   [天空不要为我掉眼泪](./albums/1990-11-23-tkbywwdyl/1990-11-23-tkbywwdyl.md)
         -   [青春像把枪](./albums/1991-10-xx-qcxbq/1991-10-xx-qcxbq.md)
+        -   [红色热情](./albums/1996-07-12-hsrq/1996-07-12-hsrq.md)
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [Bad Boy](./albums/1997-06-11-bad-boy/1997-06-11-bad-boy.md)
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
@@ -86,3 +87,4 @@
     -   [未来计划](./more/plans.md)
     -   [资料整理指导](./more/how-to-contribute/how-to-contribute.md)
     -   [本地部署指南](./more/deploy/deploy.md)
+
