@@ -33,7 +33,7 @@
     -   [张雨生的独白](./articles/1988-11-05-monologue/1988-11-05-monologue.md)
     -   [永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
     -   [在不断扬弃下，体现自我成长](./articles/1989-07-22-self-growth-amid-sublation.md)
-    -   [好小子立志——我看台湾生命力](./articles/1990-11-30-youth-aspiration.md.md)
+    -   [好小子立志——我看台湾生命力](./articles/1990-11-30-youth-aspiration.md)
     -   [浴火见证](./articles/1992-06-09-witness-in-flames/1992-06-09-witness-in-flames.md)
     -   [从淡水小镇走出来](./articles/1993-05-10-emerging-from-little-town-of-tamsui/1993-05-10-emerging-from-little-town-of-tamsui.md)
     -   [名人看电视](./articles/1993-11-23-celebrities-watching-tv.md)
