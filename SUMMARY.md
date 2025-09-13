@@ -40,6 +40,7 @@
     -   [给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
     -   [我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
     -   [暂别歌坛感言](./articles/1995-04-xx-temporary-farewell-to-the-music-scene/1995-04-xx-temporary-farewell-to-the-music-scene.md)
+    -   [不可能的任务](./articles/1997-0x-xx-the-impossible-task/1997-0x-xx-the-impossible-task.md)
     -   [淡水感言](./articles/19xx-xx-xx-reflections-on-tamsui/19xx-xx-xx-reflections-on-tamsui.md)
 -   信札
     -   家书
@@ -87,4 +88,3 @@
     -   [未来计划](./more/plans.md)
     -   [资料整理指导](./more/how-to-contribute/how-to-contribute.md)
     -   [本地部署指南](./more/deploy/deploy.md)
-
