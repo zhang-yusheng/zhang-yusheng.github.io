@@ -378,7 +378,7 @@ Leave me alone
 耳聋成瘾于 Chuck Berry、Jimi Hendrix、Led Zeppelin、Deep Purple、Michael Schenker、Van Halen，Jeff、Gary、Eric、Joe、Steve 串联的金属吉他火网  
 眼也盲的心也盲的海市蜃楼盲的（妈的？）像 Jim Morrison 与 Janis Joplin 的昙花一现
 
-经过颠覆日夜的颠覆的颠覆的颠覆 
+经过颠覆日夜的颠覆的颠覆的颠覆  
 回首音乐从地底滚滚而出自 L 型长桌之前  
 薰人的传自母体酝酿的温暖硫磺原味包容我干烈且进退维谷的关于真、善、美的触觉  
 经过甩开张雨生的甩开的甩开的甩开  
