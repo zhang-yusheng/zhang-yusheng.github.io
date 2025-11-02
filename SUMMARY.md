@@ -77,9 +77,11 @@
 -   演出
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
+    -   [1996 央视六一儿童节晚会](./performances/1996-06-01-lywh.md)
     -   [1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   周边
     -   [书籍](./goods/books.md)
+-   [大事记](./EVENTS.md)
 -   更多
     -   [关于我们](./more/about.md)
     -   [联系我们](./more/contact.md)
