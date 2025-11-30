@@ -27,6 +27,7 @@
         -   [姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
         -   [Bad Boy](./albums/1997-06-11-bad-boy/1997-06-11-bad-boy.md)
         -   [我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
+        -   [吻我吧娜娜](./albums/1997-11-xx-wwbnn/1997-11-xx-wwbnn.md)
 -   文章
     -   [我的乐观人生态度](./articles/198x-xx-xx-my-optimistic-attitude/198x-xx-xx-my-optimistic-attitude.md)
     -   [张雨生曾亲自填写的档案](./articles/198x-xx-xx-self-filled-profile/198x-xx-xx-self-filled-profile.md)
