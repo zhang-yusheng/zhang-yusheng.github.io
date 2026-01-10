@@ -71,6 +71,7 @@
     -   [施主我的朋友](./manuscripts/19xx-xx-xx-benefactor-my-friend/19xx-xx-xx-benefactor-my-friend.md)
     -   [不亦快哉](./manuscripts/19xx-xx-xx-is-this-not-happiness/19xx-xx-xx-is-this-not-happiness.md)
 -   访谈
+    -   [1988-10 张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
     -   [张雨生来自 30 年前的 vlog](./talks/198x-xx-xx-vlog-with-friends/198x-xx-xx-vlog-with-friends.md)
     -   [张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
