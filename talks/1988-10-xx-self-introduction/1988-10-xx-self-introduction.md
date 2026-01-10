@@ -1,6 +1,8 @@
 # 1988-10 张雨生节目自述
 
-BGM 来自《六个朋友》专辑
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=22695566&bvid=BV1GW411V7DJ&cid=37667393&p=1&high_quality=1&danmaku=0&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+> BGM 来自《六个朋友》专辑
 
 大家好，我是张雨生。
 
