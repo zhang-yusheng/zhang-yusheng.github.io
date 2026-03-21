@@ -72,10 +72,11 @@
     -   [不亦快哉](./manuscripts/19xx-xx-xx-is-this-not-happiness/19xx-xx-xx-is-this-not-happiness.md)
 -   访谈
     -   [1988-10 张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
-    -   [张雨生来自 30 年前的 vlog](./talks/198x-xx-xx-vlog-with-friends/198x-xx-xx-vlog-with-friends.md)
+    -   [198x 张雨生来自 30 年前的 vlog](./talks/198x-xx-xx-vlog-with-friends/198x-xx-xx-vlog-with-friends.md)
     -   [1995 台北真寂寞](./talks/1995-xx-xx-lonely-taibei/1995-xx-xx-lonely-taibe.md)
-    -   [张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
+    -   [1997 张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
+    -   [1996-05-10 王牌威龙](./shows/1996-05-10-wpwl.md)
     -   [199x 龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
 -   演出
@@ -85,7 +86,7 @@
     -   [1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   周边
     -   [书籍](./goods/books.md)
--   [大事记](./EVENTS.md)
+-   [日程](./DAILY.md.md)
 -   更多
     -   [关于我们](./more/about.md)
     -   [联系我们](./more/contact.md)
