@@ -78,6 +78,7 @@
 -   综艺
     -   [1996-05-10 王牌威龙](./shows/1996-05-10-wpwl.md)
     -   [199x 龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
+    -   [1996 龙兄虎弟音乐教室](./shows/1996-07-27-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
 -   演出
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
@@ -86,7 +87,7 @@
     -   [1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   周边
     -   [书籍](./goods/books.md)
--   [日程](./DAILY.md.md)
+-   [日程](./DAILY.md)
 -   更多
     -   [关于我们](./more/about.md)
     -   [联系我们](./more/contact.md)
