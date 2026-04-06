@@ -84,6 +84,7 @@
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
     -   [1996 央视六一儿童节晚会](./performances/1996-06-01-lywh.md)
+    -   [1997 客串《阿拉丁》](./performances/1997-xx-xx-ald.md)
     -   [1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   周边
     -   [书籍](./goods/books.md)
