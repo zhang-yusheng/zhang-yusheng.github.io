@@ -106,6 +106,7 @@
 
 ## 1997
 
+-   日期待考，台北国家音乐厅客串《阿拉丁》，演唱《A Whole New World》
 -   日期待考，担任《吻我吧娜娜》音乐总监（原始记录）
 -   6 月 11 日，【专辑】[A-MEI 张惠妹 Ⅱ BAD BOY](./albums/1997-06-11-bad-boy/1997-06-11-bad-boy.md)
 -   9 月（日期未知），【访谈】[张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)

@@ -1,6 +1,6 @@
 # 雨生资料整理
 
-[资料仓库](https://github.com/zhang-yusheng/zhang-yusheng.github.io) | [下载资料](https://github.com/zhang-yusheng/zhang-yusheng.github.io/archive/refs/heads/main.zip)
+[雨生日程](./DAILY.md) | [资料仓库](https://github.com/zhang-yusheng/zhang-yusheng.github.io) | [下载资料](https://github.com/zhang-yusheng/zhang-yusheng.github.io/archive/refs/heads/main.zip)
 
 电子书下载： [epub](https://zhang-yusheng.github.io/ebooks/yusheng-zhang-archive.epub) | [pdf](https://zhang-yusheng.github.io/ebooks/yusheng-zhang-archive.pdf) | [mobi](https://zhang-yusheng.github.io/ebooks/yusheng-zhang-archive.mobi)
 
@@ -9,3 +9,6 @@
 想要在本地部署网站？参考 [本地部署指南](./more/deploy/deploy.md)
 
 [未来计划](./more/plans.md) | [特别感谢](./more/thanks.md) | [友情链接](./more/links.md) | [免责声明](./more/disclaimer.md) | [关于我们](./more/about.md) | [联系我们](./more/contact.md)
+
+<!-- <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/rfhits/Test/raw/refs/heads/main/fibo.xlsx" width="800" height="600" frameborder="0">
+</iframe> -->
