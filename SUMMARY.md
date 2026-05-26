@@ -82,6 +82,7 @@
     -   [1996 龙兄虎弟音乐教室](./shows/1996-07-27-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
 -   演出
+    -   [1987-05-23 政大 YEAH 乐团 Final Countdown](./performances/1987-05-23-zd-yeah/1987-05-23-zd-yeah.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
     -   [1996 央视六一儿童节晚会](./performances/1996-06-01-lywh.md)

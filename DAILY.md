@@ -27,6 +27,7 @@
 ## 1987
 
 -   5 月 5 日，【书信】[生活计划书](./letters/1987-05-05-my-plans/1987-05-05-my-plans.md)
+-   5 月 23 日，【演出】[政大 YEAH 乐团演唱 Final Countdown](./performances/1987-05-23-zd-yeah/1987-05-23-zd-yeah.md)
 
 ## 1988
 
