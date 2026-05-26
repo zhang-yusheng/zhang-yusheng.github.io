@@ -90,6 +90,8 @@
     -   [1997 彩虹假期：张雨生加油](./memorial/1997-xx-xx-chjq/1997-xx-xx-chjq.md)
 -   周边
     -   [书籍](./goods/books.md)
+-   二创
+    -   [2021-01-26 方芳芳访问张雨生 新闻剪辑](./remix/2021-01-26-fff-interview/2021-01-26-fff-interview.md)
 -   [日程](./DAILY.md)
 -   更多
     -   [关于我们](./more/about.md)
