@@ -4,6 +4,7 @@ node_modules
 # build output
 _book
 **/dist
+**/__pycache__/
 
 # mac files
 .DS_Store
@@ -19,3 +20,9 @@ tosort
 photos
 organize
 TODO.md
+references.md
+memories
+origin
+references
+
+scripts/**
