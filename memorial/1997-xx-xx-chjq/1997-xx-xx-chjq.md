@@ -9,8 +9,8 @@
 
 ## 来源
 
-- 上传者：Bilibili UP 主 [蓁芯0607](https://space.bilibili.com/566894049)
-- 原始来源：YouTube 宝友 iovetree
+- Bilibili：[蓁芯0607](https://www.bilibili.com/video/BV1vK411u7Ac)
+- YouTube：[iovetree](https://www.youtube.com/watch?v=Pg6vyUKhpJc)
 
 ## 页面缺陷
 

@@ -6,7 +6,7 @@
 
 ## 来源
 
-- 上传者：Bilibili UP 主 [蓁芯0607](https://space.bilibili.com/566894049)
+- [蓁芯0607](https://www.bilibili.com/video/BV1mV411q71Q)
 
 ## 页面缺陷
 
