@@ -14,6 +14,7 @@
 | `shows/` | 综艺节目 |
 | `performances/` | 演出记录 |
 | `goods/` | 周边（书籍等） |
+| `memorial/` | 雨生去世后的缅怀节目、纪念特辑 |
 | `audios/` | 音频资料 |
 | `videos/` | 视频资料 |
 | `img/` | 网站公共图片资源 |
