@@ -89,7 +89,9 @@
     -   [1997 客串《阿拉丁》](./performances/1997-xx-xx-ald.md)
     -   [1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   缅怀
-    -   [1997 彩虹假期：张雨生加油](./memorial/1997-xx-xx-chjq/1997-xx-xx-chjq.md)
+    -   [1997 彩虹假期：张雨生加油](memorial/1997-xx-xx-chjq.md)
+    -   [2004 张惠妹：雨生教会我快乐唱歌](memorial/2004-07-19-yusheng-taught-me-to-sing-happily.md)
+    -   [2026-05 Koji: 在搖滾的路上，我們曾是兩個大頑童](./memorial/2026-05-xx-we-were-two-big-kids.md)
 -   周边
     -   [书籍](./goods/books.md)
 -   二创
