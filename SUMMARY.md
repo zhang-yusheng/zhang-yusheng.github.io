@@ -81,6 +81,7 @@
     -   [199x 龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
     -   [1996 龙兄虎弟音乐教室](./shows/1996-07-27-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
+    -   [1997-10-18 红白胜利](./shows/1997-10-18-hbsl.md)
 -   演出
     -   [1987-05-23 政大 YEAH 乐团 Final Countdown](./performances/1987-05-23-zd-yeah/1987-05-23-zd-yeah.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)

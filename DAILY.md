@@ -121,6 +121,7 @@
 -   日期待考，【专辑】[口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
 -   10 月（日期未知），【演出】[1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   日期待考，【综艺】[1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
+-   10 月 18 日，【综艺】[红白胜利](./shows/1997-10-18-hbsl.md)
 
 ## 2003
 
