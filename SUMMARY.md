@@ -73,7 +73,6 @@
 -   访谈
     -   [1988-10 张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
     -   [198x 张雨生来自 30 年前的 vlog](./talks/198x-xx-xx-vlog-with-friends/198x-xx-xx-vlog-with-friends.md)
-    -   [1990-05-12 热门音乐大赛访问](./talks/1990-05-12-rmlxds/1990-05-12-rmlxds.md)
     -   [1995 台北真寂寞](./talks/1995-xx-xx-lonely-taibei/1995-xx-xx-lonely-taibe.md)
     -   [1997 张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
@@ -84,6 +83,7 @@
     -   [1997-10-18 红白胜利](./shows/1997-10-18-hbsl.md)
 -   演出
     -   [1987-05-23 政大 YEAH 乐团 Final Countdown](./performances/1987-05-23-zd-yeah/1987-05-23-zd-yeah.md)
+    -   [1990-05-12 第三届热门流行音乐大赛](./performances/1990-05-12-rmlxds.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
     -   [1996 央视六一儿童节晚会](./performances/1996-06-01-lywh.md)
