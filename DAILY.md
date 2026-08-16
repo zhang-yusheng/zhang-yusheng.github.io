@@ -31,11 +31,11 @@
 
 ## 1988
 
--   5 月（日期未知），【专辑】[6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
--   8 月（日期未知），【专辑】[烈火青春](./albums/1988-08-xx-lhqc/1988-08-xx-lhqc.md)
--   10 月（日期未知），【访谈】[张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
+-   5 月 ？日，【专辑】[6 个朋友](./albums/1988-05-xx-lgpy/1988-05-xx-lgpy.md)
+-   8 月 ？日，【专辑】[烈火青春](./albums/1988-08-xx-lhqc/1988-08-xx-lhqc.md)
+-   10 月 ？日，【访谈】[张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
 -   11 月 5 日，【文章】[张雨生的独白](./articles/1988-11-05-monologue/1988-11-05-monologue.md)
--   11 月（日期未知），【专辑】[天天想你](./albums/1988-11-xx-ttxn/1988-11-xx-ttxn.md)
+-   11 月 ？日，【专辑】[天天想你](./albums/1988-11-xx-ttxn/1988-11-xx-ttxn.md)
 
 ## 1989
 
@@ -52,7 +52,7 @@
 
 ## 1990
 
--   4 月（日期未知），【演出】[亲密家园晚会-孙中山纪念馆](./performances/1990-04-xx-szsjng.md)
+-   4 月 ？日，【演出】[亲密家园晚会-孙中山纪念馆](./performances/1990-04-xx-szsjng.md)
 -   5 月 12 日，【演出】[第三届热门流行音乐大赛](./performances/1990-05-12-rmlxds.md)
 -   11 月 23 日，【专辑】[天空不要为我掉眼泪](./albums/1990-11-23-tkbywwdyl/1990-11-23-tkbywwdyl.md)
 -   11 月 30 日，【文章】[好小子立志——我看台湾生命力](./articles/1990-11-30-youth-aspiration.md)
@@ -81,13 +81,15 @@
 
 ## 1994
 
--   1 月（日期未知），【专辑】[自由歌](./albums/1994-01-xx-zyg/1994-01-xx-zyg.md)
--   3 月（日期未知），【文章】[我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
--   8 月（日期未知），【文章】[给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
--   8 月（日期未知），【专辑】[卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
--   10 月（日期未知），【专辑】[两个永恒电视主题曲全集](./albums/1994-10-xx-lgyhdsztqqj/1994-10-xx-lgyhdsztqqj.md)
+-   1 月 ？日，【专辑】[自由歌](./albums/1994-01-xx-zyg/1994-01-xx-zyg.md)
+-   3 月 ？日，【文章】[我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
+-   8 月 ？日，【文章】[给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
+-   8 月 ？日，【专辑】[卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
+-   9 月 10 日，【综艺】[龙兄虎弟音乐教室 演唱《我期待》](./shows/1994-09-10-lxhdyyjs.md)
+-   9 月 19 日，【访谈】[午夜琴声谈《卡拉OK台北我》创作](talks/1994-09-19-wyqs.md)
+-   9 月 25 日，【综艺】[客串超级星期天第二集 解释「马子」由来](./shows/1994-09-25-cjxqt.md)
+-   10 月 ？日，【专辑】[两个永恒电视主题曲全集](./albums/1994-10-xx-lgyhdsztqqj/1994-10-xx-lgyhdsztqqj.md)
 -   日期待考，【书信】[给歌迷系雨的一封信](./letters/1994-xx-xx-a-letter-to-xiyu/1994-xx-xx-a-letter-to-xiyu.md)
--   日期待考，【综艺】[龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
 
 ## 1995
 
@@ -95,14 +97,14 @@
 -   1 月 5 日，【书信】[「卡拉 Ok‧台北‧我」宣传期写给歌迷的一封信](./letters/1995-01-05-a-letter-to-fans-during-the-promotional-period-of-karaoke-taipei-i/1995-01-05-a-letter-to-fans-during-the-promotional-period-of-karaoke-taipei-i.md)
 -   3 月 27 日，【专辑】[还是朋友](./albums/1995-03-27-hspy/1995-03-27-hspy.md)
 -   4 月 2 日，【书信】[尼泊尔之行](./letters/1995-04-02-trip-to-nepal/1995-04-02-trip-to-nepal.md)
--   4 月（日期未知），【文章】[暂别歌坛感言](./articles/1995-04-xx-temporary-farewell-to-the-music-scene/1995-04-xx-temporary-farewell-to-the-music-scene.md)
+-   4 月 ？日，【文章】[暂别歌坛感言](./articles/1995-04-xx-temporary-farewell-to-the-music-scene/1995-04-xx-temporary-farewell-to-the-music-scene.md)
 -   日期待考，【访谈】[1995 年 臺北真寂寞](./talks/1995-xx-xx-lonely-taibei/1995-xx-xx-lonely-taibe.md)
 
 ## 1996
 
 -   5 月 10 日，【综艺】[录制《王牌威龙》](./shows/1996-05-10-wpwl.md)
 -   6 月 1 日，【演出】[央视六一儿童节晚会演唱《和天一样高》](./performances/1996-06-01-lywh.md)
--   6 月（日期未知），【专辑】[白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
+-   6 月 ？日，【专辑】[白色才情](./albums/1996-06-xx-bscq/1996-06-xx-bscq.md)
 -   7 月 12 日，【专辑】[红色热情](./albums/1996-07-12-hsrq/1996-07-12-hsrq.md)
 -   7 月 27 日，【综艺】[录制龙兄虎弟音乐教室](./shows/1996-07-27-lxhdyyjs.md)
 -   12 月 13 日，【专辑】[姊妹](./albums/1996-12-13-zm/1996-12-13-zm.md)
@@ -112,15 +114,15 @@
 -   日期待考，[台北国家音乐厅客串《阿拉丁》，演唱《A Whole New World》](./performances/1997-xx-xx-ald.md)
 -   日期待考，担任《吻我吧娜娜》音乐总监（原始记录）
 -   6 月 11 日，【专辑】[A-MEI 张惠妹 Ⅱ BAD BOY](./albums/1997-06-11-bad-boy/1997-06-11-bad-boy.md)
--   9 月（日期未知），【访谈】[张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
+-   9 月 ？日，【访谈】[张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   日期待考，【文章】[不可能的任务](./articles/1997-0x-xx-the-impossible-task/1997-0x-xx-the-impossible-task.md)
 -   10 月 16 日，【专辑】[口是心非](./albums/1997-10-16-ksxf/1997-10-16-ksxf.md)
 -   10 月 17 日，【专辑】[我要为你做饭](./albums/1997-10-17-wywnzf/1997-10-17-wywnzf.md)
--   11 月（日期未知），【专辑】[吻我吧娜娜](./albums/1997-11-xx-wwbnn/1997-11-xx-wwbnn.md)
+-   11 月 ？日，【专辑】[吻我吧娜娜](./albums/1997-11-xx-wwbnn/1997-11-xx-wwbnn.md)
 -   日期待考，【书信】[雨生为《口是心非》发行写给丰华唱片老总彭国华的一封信](./letters/1997-xx-xx-a-letter-to-guohua.md)
 -   日期待考，【书信】[致丰华唱片企宣同事的信](./letters/1997-xx-xx-to-forward-music-colleagues/1997-xx-xx-to-forward-music-colleagues.md)
 -   日期待考，【专辑】[口是心非（抛物线版）](./albums/1997-xx-xx-ksxf-parabola/1997-xx-xx-ksxf-parabola.md)
--   10 月（日期未知），【演出】[1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
+-   10 月 ？日，【演出】[1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
 -   日期待考，【综艺】[1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
 -   10 月 18 日，【综艺】[红白胜利](./shows/1997-10-18-hbsl.md)
 

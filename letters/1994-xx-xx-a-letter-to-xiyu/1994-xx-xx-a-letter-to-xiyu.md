@@ -33,8 +33,8 @@
 
 页面缺陷：
 
-1. 缺少电台访谈
-2. 缺少图片来源
+- 写信时间未知
+- 缺少图片来源
 
 -   [給歌迷繫雨的一封信 - tomchang.cn](https://www.tomchang.cn/archive/letter/70.html)
 -   [給寶友繫雨的一封信 - pixnet.net](https://windlsx.pixnet.net/blog/post/810322)

@@ -73,11 +73,13 @@
 -   访谈
     -   [1988-10 张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
     -   [198x 张雨生来自 30 年前的 vlog](./talks/198x-xx-xx-vlog-with-friends/198x-xx-xx-vlog-with-friends.md)
+    -   [1994-09-19 午夜琴声谈《卡拉OK台北我》创作](talks/1994-09-19-wyqs.md)
     -   [1995 台北真寂寞](./talks/1995-xx-xx-lonely-taibei/1995-xx-xx-lonely-taibe.md)
     -   [1997 张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
     -   [1996-05-10 王牌威龙](./shows/1996-05-10-wpwl.md)
-    -   [199x 龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
+    -   [1994-09-10 龙兄虎弟音乐教室](shows/1994-09-10-lxhdyyjs.md)
+    -   [1994-09-25 超级星期天](./shows/1994-09-25-cjxqt.md)
     -   [1996 龙兄虎弟音乐教室](./shows/1996-07-27-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
     -   [1997-10-18 红白胜利](./shows/1997-10-18-hbsl.md)
