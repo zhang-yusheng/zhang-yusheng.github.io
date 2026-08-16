@@ -49,10 +49,10 @@
 
 -   日期待考，【书信】[生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
 -   日期待考，【书信】[带着爱的花粉种子，随时准备将生命的欣喜落脚](./letters/199x-xx-xx-seeds-of-love/199x-xx-xx-seeds-of-love.md)
--   日期待考，【综艺】[龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
 
 ## 1990
 
+-   4 月（日期未知），【演出】[亲密家园晚会-孙中山纪念馆](./performances/1990-04-xx-szsjng.md)
 -   5 月 12 日，【演出】[第三届热门流行音乐大赛](./performances/1990-05-12-rmlxds.md)
 -   11 月 23 日，【专辑】[天空不要为我掉眼泪](./albums/1990-11-23-tkbywwdyl/1990-11-23-tkbywwdyl.md)
 -   11 月 30 日，【文章】[好小子立志——我看台湾生命力](./articles/1990-11-30-youth-aspiration.md)
@@ -87,6 +87,7 @@
 -   8 月（日期未知），【专辑】[卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
 -   10 月（日期未知），【专辑】[两个永恒电视主题曲全集](./albums/1994-10-xx-lgyhdsztqqj/1994-10-xx-lgyhdsztqqj.md)
 -   日期待考，【书信】[给歌迷系雨的一封信](./letters/1994-xx-xx-a-letter-to-xiyu/1994-xx-xx-a-letter-to-xiyu.md)
+-   日期待考，【综艺】[龙兄虎弟音乐教室](./shows/199x-xx-xx-lxhdyyjs.md)
 
 ## 1995
 

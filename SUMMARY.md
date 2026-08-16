@@ -83,6 +83,7 @@
     -   [1997-10-18 红白胜利](./shows/1997-10-18-hbsl.md)
 -   演出
     -   [1987-05-23 政大 YEAH 乐团 Final Countdown](./performances/1987-05-23-zd-yeah/1987-05-23-zd-yeah.md)
+    -   [1990-04 亲密家园晚会 孙中山纪念馆](./performances/1990-04-xx-szsjng.md)
     -   [1990-05-12 第三届热门流行音乐大赛](./performances/1990-05-12-rmlxds.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
