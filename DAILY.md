@@ -8,6 +8,9 @@
 -   日期待考，【手稿】[不亦快哉](./manuscripts/19xx-xx-xx-is-this-not-happiness/19xx-xx-xx-is-this-not-happiness.md)
 -   日期待考，【书信】[起床偶感](./letters/19xx-xx-xx-qi-chuang-ou-gan/19xx-xx-xx-qi-chuang-ou-gan.md)
 -   日期待考，【文章】[淡水感言](./articles/19xx-xx-xx-reflections-on-tamsui/19xx-xx-xx-reflections-on-tamsui.md)
+-   日期待考，【书信】[生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
+-   日期待考，【书信】[带着爱的花粉种子，随时准备将生命的欣喜落脚](./letters/199x-xx-xx-seeds-of-love/199x-xx-xx-seeds-of-love.md)
+
 
 ## 198x
 
@@ -41,14 +44,10 @@
 
 -   3 月 21 日，【文章】[永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
 -   3 月 xx 日，【专辑】[7 匹狼 电影原声带](./albums/1989-03-xx-qpldyysd/1989-03-xx-qpldyysd.md)
+-   4 月 9 日，【演出】[第24届金钟奖《和天一样高》](./performances/1989-04-09-jzj.md)
 -   7 月 17 日，【专辑】[想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
 -   7 月 22 日，【文章】[在不断扬弃下，体现自我成长](./articles/1989-07-22-self-growth-amid-sublation.md)
 -   9 月 6 日，【书信】[雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
-
-## 199x
-
--   日期待考，【书信】[生日星座诗](./letters/199x-xx-xx-birthday-zodiac-poem/199x-xx-xx-birthday-zodiac-poem.md)
--   日期待考，【书信】[带着爱的花粉种子，随时准备将生命的欣喜落脚](./letters/199x-xx-xx-seeds-of-love/199x-xx-xx-seeds-of-love.md)
 
 ## 1990
 
