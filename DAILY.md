@@ -73,7 +73,7 @@
 
 ## 1993
 
--   1 月 1 日，【书信】[归去来兮](./letters/1993-01-01-homeward-bound/1993-01-01-homeward-bound.md)
+-   1 月 1 日，【演出】[飞向未来演唱会](./performances/1993-01-01-fxwl.md)、【书信】[归去来兮](./letters/1993-01-01-homeward-bound/1993-01-01-homeward-bound.md)
 -   5 月 10 日，【文章】[从淡水小镇走出来](./articles/1993-05-10-emerging-from-little-town-of-tamsui/1993-05-10-emerging-from-little-town-of-tamsui.md)
 -   8 月 24 日，【专辑】[一天到晚游泳的鱼](./albums/1993-08-24-ytdwyydy/1993-08-24-ytdwyydy.md)
 -   11 月 23 日，【文章】[名人看电视](./articles/1993-11-23-celebrities-watching-tv.md)
