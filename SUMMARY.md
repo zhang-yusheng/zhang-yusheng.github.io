@@ -86,6 +86,7 @@
 -   演出
     -   [1987-05-23 政大 YEAH 乐团 Final Countdown](./performances/1987-05-23-zd-yeah/1987-05-23-zd-yeah.md)
     -   [1989-04-09 第 24 届金钟奖《和天一样高》](./performances/1989-04-09-jzj.md)
+    -   [1989-05-21 台湾第二届热门音乐大赛](./performances/1989-05-21-rmyyds.md)
     -   [1990-04 亲密家园晚会 孙中山纪念馆](./performances/1990-04-xx-szsjng.md)
     -   [1990-05-12 第三届热门流行音乐大赛](./performances/1990-05-12-rmlxds.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)

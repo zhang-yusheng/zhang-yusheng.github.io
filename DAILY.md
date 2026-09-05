@@ -45,6 +45,7 @@
 -   3 月 21 日，【文章】[永远是个学生](./articles/1989-03-21-forever-a-pupil/1989-03-21-forever-a-pupil.md)
 -   3 月 xx 日，【专辑】[7 匹狼 电影原声带](./albums/1989-03-xx-qpldyysd/1989-03-xx-qpldyysd.md)
 -   4 月 9 日，【演出】[第24届金钟奖《和天一样高》](./performances/1989-04-09-jzj.md)
+-   5 月 21 日，【演出】[台湾第二届热门音乐大赛《Heaven on Fire》](./performances/1989-05-21-rmyyds.md)
 -   7 月 17 日，【专辑】[想念我](./albums/1989-07-17-xnw/1989-07-17-xnw.md)
 -   7 月 22 日，【文章】[在不断扬弃下，体现自我成长](./articles/1989-07-22-self-growth-amid-sublation.md)
 -   9 月 6 日，【书信】[雨生服役期间写给歌迷的公开信](./letters/1989-09-06-letter-to-fans-during-military-service/1989-09-06-letter-to-fans-during-military-service.md)
