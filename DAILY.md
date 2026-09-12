@@ -87,6 +87,8 @@
 -   8 月 ？日，【专辑】[卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
 -   9 月 10 日，【综艺】[龙兄虎弟音乐教室 演唱《我期待》](./shows/1994-09-10-lxhdyyjs.md)
 -   9 月 19 日，【访谈】[午夜琴声谈《卡拉OK台北我》创作](talks/1994-09-19-wyqs.md)
+-   猜测 9 月，【访谈】[黎明柔采访张雨生](./talks/1994-xx-xx-lmr.md)
+-   9 月 20 日，【演出】[中秋晚会](./performances/1994-09-20-mid-autumn.md)
 -   9 月 25 日，【综艺】[客串超级星期天第二集 解释「马子」由来](./shows/1994-09-25-cjxqt.md)
 -   10 月 ？日，【专辑】[两个永恒电视主题曲全集](./albums/1994-10-xx-lgyhdsztqqj/1994-10-xx-lgyhdsztqqj.md)
 -   日期待考，【书信】[给歌迷系雨的一封信](./letters/1994-xx-xx-a-letter-to-xiyu/1994-xx-xx-a-letter-to-xiyu.md)

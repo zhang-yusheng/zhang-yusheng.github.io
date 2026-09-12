@@ -74,6 +74,7 @@
     -   [1988-10 张雨生节目自述](./talks/1988-10-xx-self-introduction/1988-10-xx-self-introduction.md)
     -   [198x 张雨生来自 30 年前的 vlog](./talks/198x-xx-xx-vlog-with-friends/198x-xx-xx-vlog-with-friends.md)
     -   [1994-09-19 午夜琴声谈《卡拉OK台北我》创作](talks/1994-09-19-wyqs.md)
+    -   [1994 黎明柔采访张雨生](./talks/1994-xx-xx-lmr.md)
     -   [1995 台北真寂寞](./talks/1995-xx-xx-lonely-taibei/1995-xx-xx-lonely-taibe.md)
     -   [1997 张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
@@ -92,6 +93,7 @@
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
     -   [1993-01-01 上海飞向未来演唱会](./performances/1993-01-01-fxwl.md)
+    -   [1994-09-20 中秋晚会](./performances/1994-09-20-mid-autumn.md)
     -   [1996 央视六一儿童节晚会](./performances/1996-06-01-lywh.md)
     -   [1997 客串《阿拉丁》](./performances/1997-xx-xx-ald.md)
     -   [1997 口是心非发布会](./performances/1997-10-xx-launch-of-ksxf.md)
