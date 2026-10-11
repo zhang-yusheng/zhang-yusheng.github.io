@@ -78,6 +78,7 @@
     -   [1995 台北真寂寞](./talks/1995-xx-xx-lonely-taibei/1995-xx-xx-lonely-taibe.md)
     -   [1997 张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
+    -   [1993-08-24 综艺万话筒](./shows/1993-08-24-zywht.md)
     -   [1996-05-10 王牌威龙](./shows/1996-05-10-wpwl.md)
     -   [1994-09-10 龙兄虎弟音乐教室](shows/1994-09-10-lxhdyyjs.md)
     -   [1994-09-25 超级星期天](./shows/1994-09-25-cjxqt.md)
