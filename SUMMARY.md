@@ -79,9 +79,10 @@
     -   [1997 张雨生的独白 爱在淡水](./talks/1997-09-xx-monologue-love-for-tamsui/1997-09-xx-monologue-love-for-tamsui.md)
 -   综艺
     -   [1993-08-24 综艺万话筒](./shows/1993-08-24-zywht.md)
-    -   [1996-05-10 王牌威龙](./shows/1996-05-10-wpwl.md)
+    -   [1994-01-26 综艺万花筒](./shows/1994-01-26-zywhj.md)
     -   [1994-09-10 龙兄虎弟音乐教室](shows/1994-09-10-lxhdyyjs.md)
     -   [1994-09-25 超级星期天](./shows/1994-09-25-cjxqt.md)
+    -   [1996-05-10 王牌威龙](./shows/1996-05-10-wpwl.md)
     -   [1996 龙兄虎弟音乐教室](./shows/1996-07-27-lxhdyyjs.md)
     -   [1997 龙兄虎弟音乐教室](./shows/1997-xx-xx-lxhdyyjs.md)
     -   [1997-10-18 红白胜利](./shows/1997-10-18-hbsl.md)

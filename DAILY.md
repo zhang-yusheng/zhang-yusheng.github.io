@@ -84,6 +84,7 @@
 ## 1994
 
 -   1 月 ？日，【专辑】[自由歌](./albums/1994-01-xx-zyg/1994-01-xx-zyg.md)
+-   1 月 26 日，【综艺】[综艺万花筒 谈节约用水](./shows/1994-01-26-zywhj.md)
 -   3 月 ？日，【文章】[我的酒娜娜](./articles/1994-03-xx-my-jiunana/1994-03-xx-my-jiunana.md)
 -   8 月 ？日，【文章】[给阿凯的序](./articles/1994-08-xx-preface-of-tell-you-the-truth/1994-08-xx-preface-of-tell-you-the-truth.md)
 -   8 月 ？日，【专辑】[卡拉 OK·台北·我](./albums/1994-08-xx-kloktbw/1994-08-xx-kloktbw.md)
