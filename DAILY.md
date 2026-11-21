@@ -71,6 +71,7 @@
 -   12 月，【专辑】[大海](./albums/1992-12-xx-dh/1992-12-xx-dh.md)
 -   日期待考，【演出】[1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
 -   日期待考，【演出】[1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
+-   日期待考，【演出】[大学城第九届全国大专创作歌谣总决赛》](./performances/1992-xx-xx-dxc.md)
 
 ## 1993
 

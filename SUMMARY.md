@@ -94,6 +94,7 @@
     -   [1990-05-12 第三届热门流行音乐大赛](./performances/1990-05-12-rmlxds.md)
     -   [1992 奥林匹克风晚会](./performances/1992-xx-xx-alpkfwh.md)
     -   [1992 奥运希望之光文艺晚会](./performances/1992-xx-xx-ayxwzgwywh.md)
+    -   [1992 大学城第九届全国大专创作歌谣总决赛](./performances/1992-xx-xx-dxc.md)
     -   [1993-01-01 上海飞向未来演唱会](./performances/1993-01-01-fxwl.md)
     -   [1994-09-20 中秋晚会](./performances/1994-09-20-mid-autumn.md)
     -   [1996 央视六一儿童节晚会](./performances/1996-06-01-lywh.md)
